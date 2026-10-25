@@ -1,14 +1,9 @@
 {
-  "id": "./",
-  "name": "Kiểm tra từ vựng tiếng Anh",
-  "short_name": "Từ vựng Anh",
-  "description": "Ứng dụng kiểm tra từ vựng tiếng Anh offline",
-  "lang": "vi",
+  "name": "English Vocabulary Quiz",
+  "short_name": "Vocab Quiz",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#f4f7fb",
   "theme_color": "#10213d",
-  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "description": "Ứng dụng học từ vựng tiếng Anh offline"
 }

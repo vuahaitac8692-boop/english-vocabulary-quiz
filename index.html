@@ -40,6 +40,7 @@ details summary{cursor:pointer;font-weight:750;margin:-2px 0 12px}.pill{font-siz
   <label class="filebtn secondary" for="backupFile">Khôi phục bản sao</label><input id="backupFile" type="file" accept=".json" hidden>
  </div>
  <p class="hint">Ứng dụng có thể chạy offline sau khi mở/cài đặt lần đầu. Dữ liệu lưu riêng trên từng trình duyệt. Để chuyển máy, hãy xuất file JSON rồi nhập lại trên máy mới. Nhập Word .docx được xử lý ngay trên thiết bị, không tải dữ liệu lên mạng.</p>
+ <div class="row" style="margin-top:10px"><button class="secondary" id="syncSharedBtn">Đồng bộ kho từ vựng chung</button><span class="hint" id="sharedSyncStatus">Kho chung sẽ được kiểm tra khi mở ứng dụng có Internet.</span></div>
  <details>
   <summary>Thêm từ bằng cách dán nội dung / thu gọn khu vực nhập</summary>
   <p class="hint">Dán mỗi từ một dòng theo thứ tự: <b>Từ vựng [TAB] Từ loại [TAB] Phiên âm [TAB] Nghĩa tiếng Việt</b>. Có thể copy các dòng từ bảng Word.</p>
@@ -189,7 +190,9 @@ async function readDocxDocumentXml(file){
 }
 $('exportBtn').onclick=()=>{let blob=new Blob([JSON.stringify({format:'vocab-quiz-backup-v1',exportedAt:new Date().toISOString(),vocab,importedCount},null,2)],{type:'application/json'});let a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='vocab-quiz-backup.json';a.click();URL.revokeObjectURL(a.href)};
 $('backupFile').onchange=async e=>{let f=e.target.files[0];if(!f)return;try{let d=JSON.parse(await f.text());let arr=Array.isArray(d)?d:d.vocab;if(!Array.isArray(arr))throw Error('bad');if(confirm('Khôi phục sẽ thay kho hiện tại bằng dữ liệu trong file. Tiếp tục?')){vocab=[];let r=addEntries(arr);importedCount=d.importedCount||0;save();renderAll();$('importMsg').textContent=`Đã khôi phục ${vocab.length} từ.`}}catch(err){alert('File sao lưu không hợp lệ.')}finally{e.target.value=''}};
-load();
+async function syncSharedVocabulary(){const status=$('sharedSyncStatus');if(!status)return;if(!location.protocol.startsWith('http')){status.textContent='Đồng bộ kho chung chỉ hoạt động trên website HTTPS.';return}status.textContent='Đang kiểm tra kho từ vựng chung…';try{const res=await fetch('./vocabulary.json',{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);const data=await res.json();const entries=Array.isArray(data)?data:data.vocab;if(!Array.isArray(entries))throw new Error('Định dạng vocabulary.json không hợp lệ');const seen=new Set(vocab.map(x=>norm(x.word)));let added=0;for(const raw of entries){const x=cleanEntry(raw);if(!x.word||!x.meaning)continue;const k=norm(x.word);if(seen.has(k))continue;seen.add(k);vocab.push(x);added++}if(added){save();renderAll()}status.textContent=added?`Đã đồng bộ ${added} từ mới từ kho chung. Từ riêng trên thiết bị vẫn được giữ nguyên.`:`Kho chung đã cập nhật; không có từ mới. Tổng kho hiện tại: ${vocab.length} từ.`;status.style.color='#15803d'}catch(err){status.textContent='Chưa tải được kho chung (có thể chưa đăng file vocabulary.json hoặc đang offline). Dữ liệu trên máy vẫn dùng được.';status.style.color='#64748b'}}
+$('syncSharedBtn')?.addEventListener('click',syncSharedVocabulary);
+load();syncSharedVocabulary();
 if('serviceWorker' in navigator && location.protocol.startsWith('http')) window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
 </script>
 </body></html>
