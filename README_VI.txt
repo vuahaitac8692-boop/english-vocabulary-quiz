@@ -1,37 +1,11 @@
-ỨNG DỤNG KIỂM TRA TỪ VỰNG TIẾNG ANH - BẢN PWA OFFLINE
+HUONG DAN CAP NHAT KHO TU VUNG CHUNG
 
-CÓ GÌ TRONG GÓI?
-- index.html: ứng dụng và kho từ vựng ban đầu trích từ file Word đã cung cấp.
-- manifest.webmanifest + icon.svg: thông tin cài lên màn hình chính.
-- sw.js: lưu ứng dụng để mở lại khi mất Internet.
+1. Giữ file Vocabulary_Admin.html trên máy quản trị riêng; không cần đưa file này lên website công khai.
+2. Mở Vocabulary_Admin.html bằng Chrome/Edge trên máy quản trị. Trang này có kho riêng và không đọc/ghi dữ liệu cá nhân trong ứng dụng học.
+3. Thêm từ bằng form, nhập file Word .docx, nhập JSON hoặc dán nhiều dòng.
+4. Bấm “Xuất vocabulary.json để đăng lên GitHub”.
+5. Mở repository GitHub Pages, tải file vocabulary.json vừa xuất lên thư mục gốc, ghi đè file cũ rồi Commit changes.
+6. Người học mở ứng dụng khi có Internet hoặc bấm “Đồng bộ kho từ vựng chung”. Từ chung mới sẽ được thêm vào danh sách của họ; từ vựng riêng đã nhập trên thiết bị được giữ nguyên và không gửi lên GitHub.
+7. File vocabulary.json hiện có trong gói chỉ là dữ liệu khởi đầu gồm kho từ hiện tại. Hãy thay nó bằng file xuất từ trang quản trị khi cần phát hành dữ liệu mới.
 
-CÁCH DÙNG TRÊN ANDROID, IPHONE VÀ MÁY TÍNH
-Ứng dụng PWA cần được đặt trên một địa chỉ HTTPS để cài đặt và dùng offline ổn định. Chỉ chép file index.html vào điện thoại hoặc mở trực tiếp từ file không kích hoạt được Service Worker.
-
-Cách triển khai miễn phí bằng GitHub Pages:
-1. Trên máy tính, đăng nhập hoặc tạo tài khoản GitHub.
-2. Tạo repository mới, ví dụ: english-vocabulary-quiz. Có thể đặt Public.
-3. Tải lên TOÀN BỘ 4 file trong thư mục này: index.html, manifest.webmanifest, sw.js, icon.svg (không đổi tên file).
-4. Trong repository, vào Settings > Pages.
-5. Ở Build and deployment, chọn Deploy from a branch; chọn branch main và folder /(root), bấm Save.
-6. Đợi GitHub Pages cấp URL dạng https://TEN-TAI-KHOAN.github.io/english-vocabulary-quiz/ rồi mở URL đó khi có Internet.
-7. Mở trang trên từng thiết bị ít nhất một lần khi có Internet để trình duyệt lưu ứng dụng. Sau đó có thể bật chế độ máy bay và kiểm tra.
-
-CÀI LÊN MÀN HÌNH CHÍNH
-- Android (Chrome): mở URL HTTPS > menu ⋮ > Install app / Add to Home screen.
-- iPhone/iPad (Safari): mở URL HTTPS > nút Share > Add to Home Screen > Add.
-- Máy tính (Chrome/Edge): mở URL HTTPS > biểu tượng Install trên thanh địa chỉ hoặc menu > Install app.
-
-OFFLINE VÀ DỮ LIỆU
-- Sau lần tải đầu, ứng dụng và chức năng kiểm tra chạy offline. Nhập DOCX được xử lý ngay trên thiết bị, không tải file lên mạng; cần trình duyệt hiện đại hỗ trợ DecompressionStream('deflate-raw').
-- Dữ liệu lưu cục bộ riêng trong từng trình duyệt/thiết bị. Không có đồng bộ đám mây.
-- Để chuyển kho từ: thiết bị cũ > Xuất bản sao lưu (JSON); chuyển file JSON sang thiết bị mới > Khôi phục bản sao.
-- Nên sao lưu định kỳ. Xóa dữ liệu trang web/trình duyệt có thể làm mất kho từ đã lưu trên thiết bị đó.
-
-CHỨC NĂNG
-- Bài kiểm tra 30 câu, giới hạn 15 phút.
-- Chọn 1 trong 4 nghĩa tiếng Việt; hiện từ loại và phiên âm khi trả lời đúng; câu sai vẫn tự chuyển.
-- Chấm điểm, xem lại đáp án.
-- Nhập Word .docx hoặc dán 4 cột: Từ vựng, Từ loại, Phiên âm, Nghĩa tiếng Việt.
-- Tự bỏ từ trùng; tìm kiếm và phân trang kho từ.
-- Xuất/nhập bản sao lưu JSON.
+LƯU Ý: GitHub Pages là nơi phát hành file tĩnh. Để thay kho chung, cần tài khoản có quyền ghi repository và phải commit file vocabulary.json. Không đưa mật khẩu hoặc token GitHub vào trang quản trị.
