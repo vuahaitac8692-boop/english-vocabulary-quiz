@@ -1,6 +1,6 @@
 {
-  "format": "vocab-master-v1",
-  "updatedAt": "2026-10-25T00:00:00.000Z",
+  "format": "vocab-admin-backup-v1",
+  "exportedAt": "2026-10-25T03:39:40.967Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -1951,6 +1951,43 @@
       "pos": "Noun/Adv",
       "ipa": "/ˌdaʊnˈtaʊn/",
       "meaning": "Khu trung tâm thành phố"
+    },
+    {
+      "word": "excellent skill",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈeksələnt skɪl/",
+      "meaning": "Kỹ năng xuất sắc"
+    },
+    {
+      "word": "upcoming project",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈʌpkʌmɪŋ ˈprɑːdʒekt/",
+      "meaning": "Dự án sắp tới"
+    },
+    {
+      "word": "display hall",
+      "pos": "Cụm danh từ",
+      "ipa": "/dɪˈspleɪ hɔːl/",
+      "meaning": "Phòng trưng bày"
+    },
+    {
+      "word": "specialize in",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈspeʃəlaɪz ɪn/",
+      "meaning": "Chuyên về, chuyên môn hóa trong"
+    },
+    {
+      "word": "work efficiency",
+      "pos": "Cụm danh từ",
+      "ipa": "/wɜːrk ɪˈfɪʃənsi/",
+      "meaning": "Hiệu suất làm việc"
+    },
+    {
+      "word": "reach an agreement",
+      "pos": "Cụm động từ",
+      "ipa": "/riːtʃ ən əˈɡriːmənt/",
+      "meaning": "Đạt được thỏa thuận"
     }
-  ]
+  ],
+  "dupeCount": 2
 }
