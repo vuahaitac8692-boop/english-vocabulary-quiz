@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-10-25T03:39:40.967Z",
+  "exportedAt": "2026-10-26T03:39:03.451Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -1311,7 +1311,7 @@
       "meaning": "Phòng Kế toán"
     },
     {
-      "word": "Personnel Department (hoặc HR Department)",
+      "word": "Personnel Department / HR Department",
       "pos": "Cụm danh từ",
       "ipa": "/ˌpɜːsəˈnel dɪˈpɑːtmənt/",
       "meaning": "Phòng Nhân sự"
@@ -1851,10 +1851,10 @@
       "meaning": "Điệu bộ bằng tay"
     },
     {
-      "word": "Qualified (Be qualified for)",
+      "word": "Qualified",
       "pos": "Adj / Exp",
       "ipa": "/ˈkwäləˌfīd/",
-      "meaning": "Đủ điều kiện, có đủ năng lực"
+      "meaning": "( Be qualified for) Đủ điều kiện, có đủ năng lực"
     },
     {
       "word": "Application",
