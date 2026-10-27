@@ -1,6 +1,6 @@
 {
-  "format": "vocab-master-v1",
-  "updatedAt": "2026-10-25T00:00:00.000Z",
+  "format": "vocab-admin-backup-v1",
+  "exportedAt": "2026-10-27T09:01:08.830Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -1311,7 +1311,7 @@
       "meaning": "Phòng Kế toán"
     },
     {
-      "word": "Personnel Department (hoặc HR Department)",
+      "word": "Personnel Department / HR Department",
       "pos": "Cụm danh từ",
       "ipa": "/ˌpɜːsəˈnel dɪˈpɑːtmənt/",
       "meaning": "Phòng Nhân sự"
@@ -1851,10 +1851,10 @@
       "meaning": "Điệu bộ bằng tay"
     },
     {
-      "word": "Qualified (Be qualified for)",
+      "word": "Qualified",
       "pos": "Adj / Exp",
       "ipa": "/ˈkwäləˌfīd/",
-      "meaning": "Đủ điều kiện, có đủ năng lực"
+      "meaning": "( Be qualified for) Đủ điều kiện, có đủ năng lực"
     },
     {
       "word": "Application",
@@ -1951,6 +1951,199 @@
       "pos": "Noun/Adv",
       "ipa": "/ˌdaʊnˈtaʊn/",
       "meaning": "Khu trung tâm thành phố"
+    },
+    {
+      "word": "excellent skill",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈeksələnt skɪl/",
+      "meaning": "Kỹ năng xuất sắc"
+    },
+    {
+      "word": "upcoming project",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈʌpkʌmɪŋ ˈprɑːdʒekt/",
+      "meaning": "Dự án sắp tới"
+    },
+    {
+      "word": "display hall",
+      "pos": "Cụm danh từ",
+      "ipa": "/dɪˈspleɪ hɔːl/",
+      "meaning": "Phòng trưng bày"
+    },
+    {
+      "word": "specialize in",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈspeʃəlaɪz ɪn/",
+      "meaning": "Chuyên về, chuyên môn hóa trong"
+    },
+    {
+      "word": "work efficiency",
+      "pos": "Cụm danh từ",
+      "ipa": "/wɜːrk ɪˈfɪʃənsi/",
+      "meaning": "Hiệu suất làm việc"
+    },
+    {
+      "word": "reach an agreement",
+      "pos": "Cụm động từ",
+      "ipa": "/riːtʃ ən əˈɡriːmənt/",
+      "meaning": "Đạt được thỏa thuận"
+    },
+    {
+      "word": "Have a reservation / Reserve",
+      "pos": "Cụm động từ / Động từ",
+      "ipa": "/rɪˈzɜːv/",
+      "meaning": "Đặt trước, đặt chỗ trước"
+    },
+    {
+      "word": "Cancellation",
+      "pos": "Danh từ",
+      "ipa": "/ˌkænsəˈleɪʃn/",
+      "meaning": "Sự hủy bỏ"
+    },
+    {
+      "word": "Accommodation",
+      "pos": "Danh từ",
+      "ipa": "/əˌkɒməˈdeɪʃn/",
+      "meaning": "Chỗ ở"
+    },
+    {
+      "word": "Minibar",
+      "pos": "Danh từ",
+      "ipa": "/ˈmɪnibɑːr/",
+      "meaning": "Tủ lạnh nhỏ (trong phòng khách sạn)"
+    },
+    {
+      "word": "Under the name of",
+      "pos": "Cụm giới từ",
+      "ipa": "/ˈʌndər ðə neɪm ɒv/",
+      "meaning": "Dưới tên là"
+    },
+    {
+      "word": "Within walking distance",
+      "pos": "Cụm từ",
+      "ipa": "/wɪðˈɪn ˈwɔːkɪŋ ˈdɪstəns/",
+      "meaning": "Khoảng cách có thể đi bộ được (gần)"
+    },
+    {
+      "word": "Book a room",
+      "pos": "Cụm động từ",
+      "ipa": "/bʊk ə ruːm/",
+      "meaning": "Đặt phòng"
+    },
+    {
+      "word": "Be charged",
+      "pos": "Cụm động từ",
+      "ipa": "/biː tʃɑːrdʒd/",
+      "meaning": "Bị tính phí"
+    },
+    {
+      "word": "Continental breakfast",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌkɒntɪˈnentl ˈbrekfəst/",
+      "meaning": "Bữa sáng kiểu lục địa (kiểu Âu nhẹ nhàng)"
+    },
+    {
+      "word": "Public transportation",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃn/",
+      "meaning": "Phương tiện giao thông công cộng"
+    },
+    {
+      "word": "Vacancy",
+      "pos": "Danh từ",
+      "ipa": "/ˈveɪkənsi/",
+      "meaning": "Chỗ trống (phòng trống)"
+    },
+    {
+      "word": "Kitchenette",
+      "pos": "Danh từ",
+      "ipa": "/ˌkɪtʃɪˈnet/",
+      "meaning": "Gian bếp nhỏ"
+    },
+    {
+      "word": "Amenity",
+      "pos": "Danh từ",
+      "ipa": "/əˈmenəti/",
+      "meaning": "Tiện nghi, cơ sở vật chất"
+    },
+    {
+      "word": "Handicapped facility",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈhændikæpt fəˈsɪləti/",
+      "meaning": "Cơ sở vật chất dành cho người khuyết tật"
+    },
+    {
+      "word": "Passport",
+      "pos": "Danh từ",
+      "ipa": "/ˈpɑːspɔːrt/",
+      "meaning": "Hộ chiếu"
+    },
+    {
+      "word": "Metal detector",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈmetl dɪˈtektər/",
+      "meaning": "Máy phát hiện kim loại"
+    },
+    {
+      "word": "Pick up luggage",
+      "pos": "Cụm động từ",
+      "ipa": "/pɪk ʌp ˈlʊɡɪdʒ/",
+      "meaning": "Lấy hành lý"
+    },
+    {
+      "word": "Boarding pass",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "meaning": "Thẻ lên máy bay"
+    },
+    {
+      "word": "Check-in bags",
+      "pos": "Cụm động từ",
+      "ipa": "/tʃek ɪn bæɡz/",
+      "meaning": "Ký gửi hành lý"
+    },
+    {
+      "word": "Conveyor belt",
+      "pos": "Cụm danh từ",
+      "ipa": "/kənˈveɪər belt/",
+      "meaning": "Băng chuyền (hành lý)"
+    },
+    {
+      "word": "Final destination",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈfaɪnl ˌdestɪˈneɪʃn/",
+      "meaning": "Điểm đến cuối cùng"
+    },
+    {
+      "word": "Baggage claim",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "meaning": "Khu vực nhận hành lý thất lạc / Khu nhận hành lý"
+    },
+    {
+      "word": "Immigration",
+      "pos": "Danh từ",
+      "ipa": "/ˌɪmɪˈɡreɪʃn/",
+      "meaning": "Khu vực kiểm tra xuất nhập cảnh"
+    },
+    {
+      "word": "Connecting flight",
+      "pos": "Cụm danh từ",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "meaning": "Chuyến bay chuyển tiếp (quá cảnh)"
+    },
+    {
+      "word": "Overweight baggage",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌəʊvərˈweɪt ˈbæɡɪdʒ/",
+      "meaning": "Hành lý quá khổ / quá cân"
+    },
+    {
+      "word": "Layover",
+      "pos": "Danh từ",
+      "ipa": "/ˈleɪəʊvər/",
+      "meaning": "Thời gian dừng quá cảnh"
     }
-  ]
+  ],
+  "dupeCount": 2
 }
