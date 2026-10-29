@@ -1,1956 +1,2583 @@
 {
-  "format": "vocab-master-v1",
-  "updatedAt": "2026-10-25T00:00:00.000Z",
+  "format": "vocab-admin-backup-v1",
+  "exportedAt": "2026-10-29T08:32:21.857Z",
   "vocab": [
     {
       "word": "Excellent",
       "pos": "Tính từ",
       "ipa": "/ˈeksələnt/",
-      "meaning": "Xuất sắc"
+      "meaning": "Xuất sắc",
+      "ngayThem": ""
     },
     {
       "word": "Upcoming",
       "pos": "Tính từ",
       "ipa": "/ˈʌpkʌmɪŋ/",
-      "meaning": "Sắp tới"
+      "meaning": "Sắp tới",
+      "ngayThem": ""
     },
     {
       "word": "Exceptionally",
       "pos": "Trạng từ",
       "ipa": "/ɪkˈsepʃənəli/",
-      "meaning": "Nổi bật, ngoại lệ"
+      "meaning": "Nổi bật, ngoại lệ",
+      "ngayThem": ""
     },
     {
       "word": "Display",
       "pos": "Động từ",
       "ipa": "/dɪˈspleɪ/",
-      "meaning": "Trình bày, trưng bày"
+      "meaning": "Trình bày, trưng bày",
+      "ngayThem": ""
     },
     {
       "word": "Misunderstanding",
       "pos": "Danh từ",
       "ipa": "/ˌmɪsʌndərˈstændɪŋ/",
-      "meaning": "Sự hiểu lầm"
+      "meaning": "Sự hiểu lầm",
+      "ngayThem": ""
     },
     {
       "word": "Tension",
       "pos": "Danh từ",
       "ipa": "/ˈtenʃn/",
-      "meaning": "Tình trạng căng thẳng"
+      "meaning": "Tình trạng căng thẳng",
+      "ngayThem": ""
     },
     {
       "word": "Political issues",
       "pos": "Cụm danh từ",
       "ipa": "/pəˈlɪtɪkl ˈɪʃuːz/",
-      "meaning": "Vấn đề chính trị"
+      "meaning": "Vấn đề chính trị",
+      "ngayThem": ""
     },
     {
       "word": "Look for",
       "pos": "Cụm động từ",
       "ipa": "/lʊk fɔːr/",
-      "meaning": "Tìm kiếm"
+      "meaning": "Tìm kiếm",
+      "ngayThem": ""
     },
     {
       "word": "Applicant",
       "pos": "Danh từ",
       "ipa": "/ˈæplɪkənt/",
-      "meaning": "Ứng viên"
+      "meaning": "Ứng viên",
+      "ngayThem": ""
     },
     {
       "word": "Intermission",
       "pos": "Danh từ",
       "ipa": "/ˌɪntərˈmɪʃn/",
-      "meaning": "Thời gian nghỉ giải lao"
+      "meaning": "Thời gian nghỉ giải lao",
+      "ngayThem": ""
     },
     {
       "word": "Figure skater",
       "pos": "Danh từ",
       "ipa": "/ˈfɪɡjər skeɪtər/",
-      "meaning": "Vận động viên trượt băng nghệ thuật"
+      "meaning": "Vận động viên trượt băng nghệ thuật",
+      "ngayThem": ""
     },
     {
       "word": "Postpone",
       "pos": "Động từ",
       "ipa": "/pəʊˈspəʊn/",
-      "meaning": "Trì hoãn"
+      "meaning": "Trì hoãn",
+      "ngayThem": ""
     },
     {
       "word": "Schedule",
       "pos": "Danh từ / Động từ",
       "ipa": "/ˈskedʒuːl/",
-      "meaning": "Lịch trình / Lên lịch trình"
+      "meaning": "Lịch trình / Lên lịch trình",
+      "ngayThem": ""
     },
     {
       "word": "Have something delivered",
       "pos": "Cụm động từ",
       "ipa": "/hæv ˈsʌmθɪŋ dɪˈlɪvərd/",
-      "meaning": "Nhờ/thuê giao hàng đưa cái gì"
+      "meaning": "Nhờ/thuê giao hàng đưa cái gì",
+      "ngayThem": ""
     },
     {
       "word": "Place an order",
       "pos": "Cụm động từ",
       "ipa": "/pleɪs ən ˈɔːrdər/",
-      "meaning": "Đặt hàng"
+      "meaning": "Đặt hàng",
+      "ngayThem": ""
     },
     {
       "word": "Out of stock",
       "pos": "Cụm tính từ",
       "ipa": "/aʊt əv stɑːk/",
-      "meaning": "Hết hàng"
+      "meaning": "Hết hàng",
+      "ngayThem": ""
     },
     {
       "word": "In stock",
       "pos": "Cụm tính từ",
       "ipa": "/ɪn stɑːk/",
-      "meaning": "Còn hàng"
+      "meaning": "Còn hàng",
+      "ngayThem": ""
     },
     {
       "word": "Newly released / New arrivals",
       "pos": "Cụm từ",
       "ipa": "/ˈnuːli rɪˈliːst / nuː əˈraɪvəlz/",
-      "meaning": "Mới phát hành / Hàng mới về"
+      "meaning": "Mới phát hành / Hàng mới về",
+      "ngayThem": ""
     },
     {
       "word": "Make a payment / Pay a bill",
       "pos": "Cụm động từ",
       "ipa": "/meɪk ə ˈpeɪmənt / peɪ ə bɪl/",
-      "meaning": "Thanh toán / Thanh toán hóa đơn"
+      "meaning": "Thanh toán / Thanh toán hóa đơn",
+      "ngayThem": ""
     },
     {
       "word": "Get a refund",
       "pos": "Cụm động từ",
       "ipa": "/ɡet ə ˈriːfʌnd/",
-      "meaning": "Được hoàn trả tiền"
+      "meaning": "Được hoàn trả tiền",
+      "ngayThem": ""
     },
     {
       "word": "Get a discount",
       "pos": "Cụm động từ",
       "ipa": "/ɡet ə ˈdɪskaʊnt/",
-      "meaning": "Được giảm giá"
+      "meaning": "Được giảm giá",
+      "ngayThem": ""
     },
     {
       "word": "Exchange",
       "pos": "Động từ / Danh từ",
       "ipa": "/ɪksˈtʃeɪndʒ/",
-      "meaning": "Trao đổi / Sự đổi trả hàng"
+      "meaning": "Trao đổi / Sự đổi trả hàng",
+      "ngayThem": ""
     },
     {
       "word": "Promotional coupon",
       "pos": "Cụm danh từ",
       "ipa": "/prəˈmoʊʃənl ˈkuːpɑːn/",
-      "meaning": "Phiếu giảm giá"
+      "meaning": "Phiếu giảm giá",
+      "ngayThem": ""
     },
     {
       "word": "Alterations",
       "pos": "Danh từ (số nhiều)",
       "ipa": "/ˌɔːltəˈreɪʃnz/",
-      "meaning": "Sự thay đổi, sửa chữa (quần áo)"
+      "meaning": "Sự thay đổi, sửa chữa (quần áo)",
+      "ngayThem": ""
     },
     {
       "word": "Warranty",
       "pos": "Danh từ",
       "ipa": "/ˈwɔːrənti/",
-      "meaning": "Giấy bảo hành"
+      "meaning": "Giấy bảo hành",
+      "ngayThem": ""
     },
     {
       "word": "A cash discount",
       "pos": "Cụm danh từ",
       "ipa": "/ə kæʃ ˈdɪskaʊnt/",
-      "meaning": "Giảm giá khi thanh toán bằng tiền mặt"
+      "meaning": "Giảm giá khi thanh toán bằng tiền mặt",
+      "ngayThem": ""
     },
     {
       "word": "Make a reservation / Book a table",
       "pos": "Cụm động từ",
       "ipa": "/meɪk ə ˌrezərˈveɪʃn / bʊk ə ˈteɪbl/",
-      "meaning": "Đặt chỗ trước / Đặt bàn"
+      "meaning": "Đặt chỗ trước / Đặt bàn",
+      "ngayThem": ""
     },
     {
       "word": "Grab a bite to eat",
       "pos": "Cụm động từ",
       "ipa": "/ɡræb ə baɪt tuː iːt/",
-      "meaning": "Ăn nhanh một món gì đó"
+      "meaning": "Ăn nhanh một món gì đó",
+      "ngayThem": ""
     },
     {
       "word": "Appetizer / Starter",
       "pos": "Danh từ",
       "ipa": "/ˈæpɪtaɪzər / ˈstɑːrtər/",
-      "meaning": "Món khai vị"
+      "meaning": "Món khai vị",
+      "ngayThem": ""
     },
     {
       "word": "Main course",
       "pos": "Danh từ",
       "ipa": "/meɪn kɔːrs/",
-      "meaning": "Món chính"
+      "meaning": "Món chính",
+      "ngayThem": ""
     },
     {
       "word": "Beverage",
       "pos": "Danh từ",
       "ipa": "/ˈbevərɪdʒ/",
-      "meaning": "Đồ uống"
+      "meaning": "Đồ uống",
+      "ngayThem": ""
     },
     {
       "word": "Steamed",
       "pos": "Tính từ",
       "ipa": "/stiːmd/",
-      "meaning": "Hấp"
+      "meaning": "Hấp",
+      "ngayThem": ""
     },
     {
       "word": "Grilled",
       "pos": "Tính từ",
       "ipa": "/ɡrɪld/",
-      "meaning": "Nướng"
+      "meaning": "Nướng",
+      "ngayThem": ""
     },
     {
       "word": "Fully booked",
       "pos": "Cụm tính từ",
       "ipa": "/ˈfʊli bʊkt/",
-      "meaning": "Kín chỗ / Đã đặt hết bàn"
+      "meaning": "Kín chỗ / Đã đặt hết bàn",
+      "ngayThem": ""
     },
     {
       "word": "Overdone",
       "pos": "Tính từ",
       "ipa": "/ˌoʊvərˈdʌn/",
-      "meaning": "Nấu chín quá"
+      "meaning": "Nấu chín quá",
+      "ngayThem": ""
     },
     {
       "word": "Opening hours",
       "pos": "Cụm danh từ",
       "ipa": "/ˈoʊpənɪŋ ˈaʊərz/",
-      "meaning": "Giờ mở cửa"
+      "meaning": "Giờ mở cửa",
+      "ngayThem": ""
     },
     {
       "word": "Ship",
       "pos": "v",
       "ipa": "/ʃɪp/",
-      "meaning": "Vận chuyển"
+      "meaning": "Vận chuyển",
+      "ngayThem": ""
     },
     {
       "word": "HR Department",
       "pos": "n",
       "ipa": "/ˈeɪtʃ ɑːr dɪˈpɑːrtmənt/",
-      "meaning": "Phòng nhân sự"
+      "meaning": "Phòng nhân sự",
+      "ngayThem": ""
     },
     {
       "word": "Construction",
       "pos": "n",
       "ipa": "/kənˈstrʌkʃn/",
-      "meaning": "Công trình xây dựng"
+      "meaning": "Công trình xây dựng",
+      "ngayThem": ""
     },
     {
       "word": "Delay",
       "pos": "v, n",
       "ipa": "/dɪˈleɪ/",
-      "meaning": "Trì hoãn / Sự trì hoãn"
+      "meaning": "Trì hoãn / Sự trì hoãn",
+      "ngayThem": ""
     },
     {
       "word": "Locate",
       "pos": "v",
       "ipa": "/ˈləʊkeɪt/",
-      "meaning": "Đặt ở vị trí, tọa lạc"
+      "meaning": "Đặt ở vị trí, tọa lạc",
+      "ngayThem": ""
     },
     {
       "word": "Renovation",
       "pos": "n",
       "ipa": "/ˌrenəˈveɪʃn/",
-      "meaning": "Đổi mới, cải tiến, nâng cấp"
+      "meaning": "Đổi mới, cải tiến, nâng cấp",
+      "ngayThem": ""
     },
     {
       "word": "Promise",
       "pos": "v",
       "ipa": "/ˈprɑːmɪs/",
-      "meaning": "Hứa"
+      "meaning": "Hứa",
+      "ngayThem": ""
     },
     {
       "word": "Be in a meeting",
       "pos": "",
       "ipa": "/biː ɪn ə ˈmiː.tɪŋ/",
-      "meaning": "Trong cuộc họp"
+      "meaning": "Trong cuộc họp",
+      "ngayThem": ""
     },
     {
       "word": "On sick leave",
       "pos": "",
       "ipa": "/ɒn sɪk liːv/",
-      "meaning": "Nghỉ ốm"
+      "meaning": "Nghỉ ốm",
+      "ngayThem": ""
     },
     {
       "word": "Get promoted",
       "pos": "",
       "ipa": "/ɡet prəˈməʊ.tɪd/",
-      "meaning": "Được thăng chức"
+      "meaning": "Được thăng chức",
+      "ngayThem": ""
     },
     {
       "word": "Sales figures",
       "pos": "",
       "ipa": "/seɪlz ˈfɪɡ.əz/",
-      "meaning": "Doanh số"
+      "meaning": "Doanh số",
+      "ngayThem": ""
     },
     {
       "word": "Hand in / Submit",
       "pos": "",
       "ipa": "/hænd ɪn/ / /səbˈmɪt/",
-      "meaning": "Nộp (báo cáo, tài liệu)"
+      "meaning": "Nộp (báo cáo, tài liệu)",
+      "ngayThem": ""
     },
     {
       "word": "Promotional campaign",
       "pos": "",
       "ipa": "/prəˈməʊ.ʃən.əl kæmˈpeɪn/",
-      "meaning": "Chiến dịch quảng bá"
+      "meaning": "Chiến dịch quảng bá",
+      "ngayThem": ""
     },
     {
       "word": "Out of order",
       "pos": "",
       "ipa": "/aʊt əv ˈɔː.dər/",
-      "meaning": "Hỏng hóc (thiết bị)"
+      "meaning": "Hỏng hóc (thiết bị)",
+      "ngayThem": ""
     },
     {
       "word": "Audit report",
       "pos": "",
       "ipa": "/ˈɔː.dɪt rɪˈpɔːt/",
-      "meaning": "Báo cáo kiểm toán"
+      "meaning": "Báo cáo kiểm toán",
+      "ngayThem": ""
     },
     {
       "word": "Take place / Be held",
       "pos": "",
       "ipa": "/teɪk pleɪs/ / /biː held/",
-      "meaning": "Diễn ra / Được tổ chức"
+      "meaning": "Diễn ra / Được tổ chức",
+      "ngayThem": ""
     },
     {
       "word": "Be scheduled to",
       "pos": "",
       "ipa": "/biː ˈskedʒuːld tuː/",
-      "meaning": "Được sắp xếp lịch"
+      "meaning": "Được sắp xếp lịch",
+      "ngayThem": ""
     },
     {
       "word": "Farewell party",
       "pos": "",
       "ipa": "/ˈfeə.wel ˈpɑː.ti/",
-      "meaning": "Tiệc chia tay"
+      "meaning": "Tiệc chia tay",
+      "ngayThem": ""
     },
     {
       "word": "Training session",
       "pos": "",
       "ipa": "/ˈtreɪ.nɪŋ ˈseʃ.ən/",
-      "meaning": "Buổi đào tạo"
+      "meaning": "Buổi đào tạo",
+      "ngayThem": ""
     },
     {
       "word": "Keynote speaker",
       "pos": "",
       "ipa": "/ˈkiː.nəʊt ˈspiː.kər/",
-      "meaning": "Người phát biểu chính"
+      "meaning": "Người phát biểu chính",
+      "ngayThem": ""
     },
     {
       "word": "Awards banquet",
       "pos": "",
       "ipa": "/əˈwɔːdz ˈbæŋ.kwɪt/",
-      "meaning": "Tiệc trao giải"
+      "meaning": "Tiệc trao giải",
+      "ngayThem": ""
     },
     {
       "word": "Paper shredder",
       "pos": "",
       "ipa": "/ˈpeɪ.pər ˈʃred.ər/",
-      "meaning": "Máy hủy tài liệu"
+      "meaning": "Máy hủy tài liệu",
+      "ngayThem": ""
     },
     {
       "word": "Supplies",
       "pos": "",
       "ipa": "/səˈplaɪz/",
-      "meaning": "Vật tư / Đồ dùng văn phòng"
+      "meaning": "Vật tư / Đồ dùng văn phòng",
+      "ngayThem": ""
     },
     {
       "word": "Brochure",
       "pos": "(n)",
       "ipa": "/brəʊˈʃʊr/",
-      "meaning": "Quyển quảng cáo, tờ rơi"
+      "meaning": "Quyển quảng cáo, tờ rơi",
+      "ngayThem": ""
     },
     {
       "word": "Proposal",
       "pos": "(n)",
       "ipa": "/prəˈpəʊzl/",
-      "meaning": "Bản đề xuất, sự đề xuất"
+      "meaning": "Bản đề xuất, sự đề xuất",
+      "ngayThem": ""
     },
     {
       "word": "Utilize",
       "pos": "(v)",
       "ipa": "/ˈjuːtəlaɪz/",
-      "meaning": "Tận dụng, sử dụng"
+      "meaning": "Tận dụng, sử dụng",
+      "ngayThem": ""
     },
     {
       "word": "Promotion",
       "pos": "(n)",
       "ipa": "/prəˈmoʊʃn/",
-      "meaning": "Sự quảng bá, chương trình khuyến mãi"
+      "meaning": "Sự quảng bá, chương trình khuyến mãi",
+      "ngayThem": ""
     },
     {
       "word": "Profit",
       "pos": "(n)",
       "ipa": "/ˈprɑːfɪt/",
-      "meaning": "Lợi nhuận"
+      "meaning": "Lợi nhuận",
+      "ngayThem": ""
     },
     {
       "word": "Adjust",
       "pos": "(v)",
       "ipa": "/əˈdʒʌst/",
-      "meaning": "Điều chỉnh, thích nghi"
+      "meaning": "Điều chỉnh, thích nghi",
+      "ngayThem": ""
     },
     {
       "word": "Expectation",
       "pos": "(n)",
       "ipa": "/ˌekspekˈteɪʃn/",
-      "meaning": "Sự kỳ vọng, mong đợi"
+      "meaning": "Sự kỳ vọng, mong đợi",
+      "ngayThem": ""
     },
     {
       "word": "Assistance",
       "pos": "(n)",
       "ipa": "/əˈsɪstəns/",
-      "meaning": "Sự hỗ trợ, giúp đỡ"
+      "meaning": "Sự hỗ trợ, giúp đỡ",
+      "ngayThem": ""
     },
     {
       "word": "Compatible",
       "pos": "(adj)",
       "ipa": "/kəmˈpætəbl/",
-      "meaning": "Phù hợp, tương thích"
+      "meaning": "Phù hợp, tương thích",
+      "ngayThem": ""
     },
     {
       "word": "Boost",
       "pos": "(v)",
       "ipa": "/buːst/",
-      "meaning": "Thúc đẩy, làm tăng lên"
+      "meaning": "Thúc đẩy, làm tăng lên",
+      "ngayThem": ""
     },
     {
       "word": "Strategy",
       "pos": "(n)",
       "ipa": "/ˈstrætədʒi/",
-      "meaning": "Chiến lược"
+      "meaning": "Chiến lược",
+      "ngayThem": ""
     },
     {
       "word": "Launch",
       "pos": "Động từ / Danh từ (v/n)",
       "ipa": "/lɔːntʃ/",
-      "meaning": "Ra mắt, khai trương"
+      "meaning": "Ra mắt, khai trương",
+      "ngayThem": ""
     },
     {
       "word": "Complimentary",
       "pos": "Tính từ (adj)",
       "ipa": "/ˌkɑːmplɪˈmentri/",
-      "meaning": "Miễn phí (tặng kèm)"
+      "meaning": "Miễn phí (tặng kèm)",
+      "ngayThem": ""
     },
     {
       "word": "Evaluation",
       "pos": "Danh từ (n)",
       "ipa": "/ɪˌvæl.juˈeɪ.ʃən/",
-      "meaning": "Sự đánh giá"
+      "meaning": "Sự đánh giá",
+      "ngayThem": ""
     },
     {
       "word": "Advertise",
       "pos": "Động từ (v)",
       "ipa": "/ˈæd.və.taɪz/",
-      "meaning": "Quảng cáo"
+      "meaning": "Quảng cáo",
+      "ngayThem": ""
     },
     {
       "word": "Customer survey",
       "pos": "Cụm danh từ (n)",
       "ipa": "/ˈkʌs.tə.mə ˈsɜː.veɪ/",
-      "meaning": "Khảo sát khách hàng"
+      "meaning": "Khảo sát khách hàng",
+      "ngayThem": ""
     },
     {
       "word": "Gift certificate",
       "pos": "Cụm danh từ (n)",
       "ipa": "/ɡɪft səˈtɪf.ɪ.kət/",
-      "meaning": "Phiếu quà tặng"
+      "meaning": "Phiếu quà tặng",
+      "ngayThem": ""
     },
     {
       "word": "Demonstration",
       "pos": "Danh từ (n)",
       "ipa": "/ˌdem.ənˈstreɪ.ʃən/",
-      "meaning": "Sự thử nghiệm / Biểu diễn sản phẩm"
+      "meaning": "Sự thử nghiệm / Biểu diễn sản phẩm",
+      "ngayThem": ""
     },
     {
       "word": "Distribute leaflet",
       "pos": "Cụm động từ (v)",
       "ipa": "/dɪˈstrɪb.juːt ˈliː.flət/",
-      "meaning": "Phát tờ rơi"
+      "meaning": "Phát tờ rơi",
+      "ngayThem": ""
     },
     {
       "word": "On the market",
       "pos": "Cụm giới từ (prep.phr)",
       "ipa": "/ɒn ðə ˈmɑː.kɪt/",
-      "meaning": "Có mặt trên thị trường"
+      "meaning": "Có mặt trên thị trường",
+      "ngayThem": ""
     },
     {
       "word": "Publish",
       "pos": "v",
       "ipa": "/ˈpʌblɪʃ/",
-      "meaning": "Xuất bản"
+      "meaning": "Xuất bản",
+      "ngayThem": ""
     },
     {
       "word": "Existing",
       "pos": "adj",
       "ipa": "/ɪɡˈzɪstɪŋ/",
-      "meaning": "Hiện có, đang tồn tại"
+      "meaning": "Hiện có, đang tồn tại",
+      "ngayThem": ""
     },
     {
       "word": "Enclose",
       "pos": "v",
       "ipa": "/ɪnˈkləʊz/",
-      "meaning": "Đính kèm, gửi kèm"
+      "meaning": "Đính kèm, gửi kèm",
+      "ngayThem": ""
     },
     {
       "word": "Purchase",
       "pos": "v / n",
       "ipa": "/ˈpɜːrtʃəs/",
-      "meaning": "Mua / Việc mua hàng"
+      "meaning": "Mua / Việc mua hàng",
+      "ngayThem": ""
     },
     {
       "word": "Protective clothing",
       "pos": "n.phr",
       "ipa": "/prəˈtektɪv ˈkləʊðɪŋ/",
-      "meaning": "Quần áo bảo hộ, đồ bảo hộ"
+      "meaning": "Quần áo bảo hộ, đồ bảo hộ",
+      "ngayThem": ""
     },
     {
       "word": "Announce",
       "pos": "v",
       "ipa": "/əˈnaʊns/",
-      "meaning": "Thông báo"
+      "meaning": "Thông báo",
+      "ngayThem": ""
     },
     {
       "word": "Prior to",
       "pos": "prep",
       "ipa": "/ˈpraɪər tuː/",
-      "meaning": "Trước khi"
+      "meaning": "Trước khi",
+      "ngayThem": ""
     },
     {
       "word": "Prove",
       "pos": "v",
       "ipa": "/pruːv/",
-      "meaning": "Chứng minh"
+      "meaning": "Chứng minh",
+      "ngayThem": ""
     },
     {
       "word": "Academic",
       "pos": "adj",
       "ipa": "/ˌækəˈdemɪk/",
-      "meaning": "Thuộc về học thuật"
+      "meaning": "Thuộc về học thuật",
+      "ngayThem": ""
     },
     {
       "word": "Charity",
       "pos": "n",
       "ipa": "/ˈtʃærəti/",
-      "meaning": "Từ thiện"
+      "meaning": "Từ thiện",
+      "ngayThem": ""
     },
     {
       "word": "Satisfactory",
       "pos": "adj",
       "ipa": "/ˌsætɪsˈfæktəri/",
-      "meaning": "Thỏa đáng, chấp nhận được"
+      "meaning": "Thỏa đáng, chấp nhận được",
+      "ngayThem": ""
     },
     {
       "word": "Reasonable",
       "pos": "adj",
       "ipa": "/ˈriːznəbl/",
-      "meaning": "Hợp lý, phải chăng"
+      "meaning": "Hợp lý, phải chăng",
+      "ngayThem": ""
     },
     {
       "word": "Borrow",
       "pos": "v",
       "ipa": "/ˈbɑːrroʊ/",
-      "meaning": "Mượn"
+      "meaning": "Mượn",
+      "ngayThem": ""
     },
     {
       "word": "Report",
       "pos": "n",
       "ipa": "/rɪˈpɔːrt/",
-      "meaning": "Bản báo cáo"
+      "meaning": "Bản báo cáo",
+      "ngayThem": ""
     },
     {
       "word": "Figure out",
       "pos": "v.phr",
       "ipa": "/ˈfɪɡər aʊt/",
-      "meaning": "Tìm ra, hiểu ra, giải quyết"
+      "meaning": "Tìm ra, hiểu ra, giải quyết",
+      "ngayThem": ""
     },
     {
       "word": "Battery",
       "pos": "n",
       "ipa": "/ˈbætəri/",
-      "meaning": "Bình ắc-quy, pin"
+      "meaning": "Bình ắc-quy, pin",
+      "ngayThem": ""
     },
     {
       "word": "Figure",
       "pos": "n",
       "ipa": "/ˈfɪɡər/",
-      "meaning": "Con số, số liệu"
+      "meaning": "Con số, số liệu",
+      "ngayThem": ""
     },
     {
       "word": "Repair",
       "pos": "v",
       "ipa": "/rɪˈper/",
-      "meaning": "Sửa chữa"
+      "meaning": "Sửa chữa",
+      "ngayThem": ""
     },
     {
       "word": "Copier",
       "pos": "n",
       "ipa": "/ˈkɑːpiər/",
-      "meaning": "Máy photo, máy sao chụp"
+      "meaning": "Máy photo, máy sao chụp",
+      "ngayThem": ""
     },
     {
       "word": "Ink",
       "pos": "n",
       "ipa": "/ɪŋk/",
-      "meaning": "Mực (mực in, mực viết)"
+      "meaning": "Mực (mực in, mực viết)",
+      "ngayThem": ""
     },
     {
       "word": "Cartridge",
       "pos": "n",
       "ipa": "/ˈkɑːrtrɪdʒ/",
-      "meaning": "Hộp mực máy in"
+      "meaning": "Hộp mực máy in",
+      "ngayThem": ""
     },
     {
       "word": "Cabinet",
       "pos": "n",
       "ipa": "/ˈkæbɪnət/",
-      "meaning": "Tủ có ngăn kéo, tủ tài liệu"
+      "meaning": "Tủ có ngăn kéo, tủ tài liệu",
+      "ngayThem": ""
     },
     {
       "word": "Lobby",
       "pos": "n",
       "ipa": "/ˈlɑːbi/",
-      "meaning": "Sảnh chờ, hành lang lớn"
+      "meaning": "Sảnh chờ, hành lang lớn",
+      "ngayThem": ""
     },
     {
       "word": "Furniture",
       "pos": "n",
       "ipa": "/ˈfɜːrnɪtʃər/",
-      "meaning": "Đồ nội thất"
+      "meaning": "Đồ nội thất",
+      "ngayThem": ""
     },
     {
       "word": "Arrange",
       "pos": "v",
       "ipa": "/əˈreɪndʒ/",
-      "meaning": "Sắp xếp, bố trí"
+      "meaning": "Sắp xếp, bố trí",
+      "ngayThem": ""
     },
     {
       "word": "Shift",
       "pos": "n",
       "ipa": "/ʃɪft/",
-      "meaning": "Ca làm việc"
+      "meaning": "Ca làm việc",
+      "ngayThem": ""
     },
     {
       "word": "Demonstrate",
       "pos": "v",
       "ipa": "/ˈdemənstreɪt/",
-      "meaning": "Trình diễn, hướng dẫn, giải thích, thể hiện"
+      "meaning": "Trình diễn, hướng dẫn, giải thích, thể hiện",
+      "ngayThem": ""
     },
     {
       "word": "Afford",
       "pos": "v",
       "ipa": "/əˈfɔːrd/",
-      "meaning": "Có đủ khả năng (thường là tài chính/thời gian)"
+      "meaning": "Có đủ khả năng (thường là tài chính/thời gian)",
+      "ngayThem": ""
     },
     {
       "word": "Sign the contract",
       "pos": "Verb phrase (Cụm động từ)",
       "ipa": "/saɪn ðə ˈkɑːntrækt/",
-      "meaning": "Ký kết hợp đồng"
+      "meaning": "Ký kết hợp đồng",
+      "ngayThem": ""
     },
     {
       "word": "Profitable",
       "pos": "Adjective (Tính từ)",
       "ipa": "/ˈprɑːfɪtəbl/",
-      "meaning": "Sinh lời, có lãi, mang lại lợi nhuận"
+      "meaning": "Sinh lời, có lãi, mang lại lợi nhuận",
+      "ngayThem": ""
     },
     {
       "word": "Evaluation form",
       "pos": "Noun phrase (Cụm danh từ)",
       "ipa": "/ɪˌvæljuˈeɪʃn fɔːrm/",
-      "meaning": "Mẫu/phiếu đánh giá"
+      "meaning": "Mẫu/phiếu đánh giá",
+      "ngayThem": ""
     },
     {
       "word": "Annual audit",
       "pos": "Noun phrase (Cụm danh từ)",
       "ipa": "/ˈænjuəl ˈɔːdɪt/",
-      "meaning": "Cuộc kiểm toán thường niên/hàng năm"
+      "meaning": "Cuộc kiểm toán thường niên/hàng năm",
+      "ngayThem": ""
     },
     {
       "word": "Quarterly report",
       "pos": "Noun phrase (Cụm danh từ)",
       "ipa": "/ˈkwɔːrtərli rɪˈpɔːrt/",
-      "meaning": "Báo cáo hàng quý"
+      "meaning": "Báo cáo hàng quý",
+      "ngayThem": ""
     },
     {
       "word": "Budget proposal",
       "pos": "Noun phrase (Cụm danh từ)",
       "ipa": "/ˈbʌdʒɪt prəˈpoʊzl/",
-      "meaning": "Bản đề xuất ngân sách"
+      "meaning": "Bản đề xuất ngân sách",
+      "ngayThem": ""
     },
     {
       "word": "Invest in",
       "pos": "Phrasal verb (Cụm động từ)",
       "ipa": "/ɪnˈvest ɪn/",
-      "meaning": "Đầu tư vào"
+      "meaning": "Đầu tư vào",
+      "ngayThem": ""
     },
     {
       "word": "Accountant",
       "pos": "Noun (Danh từ)",
       "ipa": "/əˈkaʊntənt/",
-      "meaning": "Kế toán viên"
+      "meaning": "Kế toán viên",
+      "ngayThem": ""
     },
     {
       "word": "Designate",
       "pos": "v",
       "ipa": "/ˈdezɪɡneɪt/",
-      "meaning": "Chỉ định, phân công, bố trí"
+      "meaning": "Chỉ định, phân công, bố trí",
+      "ngayThem": ""
     },
     {
       "word": "Archive",
       "pos": "n",
       "ipa": "/ˈɑːrkaɪv/",
-      "meaning": "Lưu trữ, tài liệu lưu trữ"
+      "meaning": "Lưu trữ, tài liệu lưu trữ",
+      "ngayThem": ""
     },
     {
       "word": "Curtail",
       "pos": "v",
       "ipa": "/kɜːrˈteɪl/",
-      "meaning": "Hạn chế, cắt giảm (bằng limit, restrict)"
+      "meaning": "Hạn chế, cắt giảm (bằng limit, restrict)",
+      "ngayThem": ""
     },
     {
       "word": "Damage",
       "pos": "n / v",
       "ipa": "/ˈdæmɪdʒ/",
-      "meaning": "Sự thiệt hại / Gây thiệt hại"
+      "meaning": "Sự thiệt hại / Gây thiệt hại",
+      "ngayThem": ""
     },
     {
       "word": "Fail",
       "pos": "v",
       "ipa": "/feɪl/",
-      "meaning": "Thất bại, không làm được"
+      "meaning": "Thất bại, không làm được",
+      "ngayThem": ""
     },
     {
       "word": "Attempt",
       "pos": "v",
       "ipa": "/əˈtempt/",
-      "meaning": "Cố gắng, nỗ lực"
+      "meaning": "Cố gắng, nỗ lực",
+      "ngayThem": ""
     },
     {
       "word": "Opportunity",
       "pos": "n",
       "ipa": "/ˌɑːpərˈtuːnəti/",
-      "meaning": "Cơ hội"
+      "meaning": "Cơ hội",
+      "ngayThem": ""
     },
     {
       "word": "Chance",
       "pos": "n",
       "ipa": "/tʃæns/",
-      "meaning": "Cơ hội, sự may rủi"
+      "meaning": "Cơ hội, sự may rủi",
+      "ngayThem": ""
     },
     {
       "word": "Decision",
       "pos": "n",
       "ipa": "/dɪˈsɪʒn/",
-      "meaning": "Quyết định"
+      "meaning": "Quyết định",
+      "ngayThem": ""
     },
     {
       "word": "Effort",
       "pos": "n",
       "ipa": "/ˈefərt/",
-      "meaning": "Nỗ lực"
+      "meaning": "Nỗ lực",
+      "ngayThem": ""
     },
     {
       "word": "Way",
       "pos": "n",
       "ipa": "/weɪ/",
-      "meaning": "Cách thức, con đường"
+      "meaning": "Cách thức, con đường",
+      "ngayThem": ""
     },
     {
       "word": "Headquarters",
       "pos": "n",
       "ipa": "/ˈhedkwɔːrtərz/",
-      "meaning": "Trụ sở chính"
+      "meaning": "Trụ sở chính",
+      "ngayThem": ""
     },
     {
       "word": "Merge",
       "pos": "v",
       "ipa": "/mɜːrdʒ/",
-      "meaning": "Sáp nhập"
+      "meaning": "Sáp nhập",
+      "ngayThem": ""
     },
     {
       "word": "Convert",
       "pos": "v",
       "ipa": "/kənˈvɜːrt/",
-      "meaning": "Chuyển đổi, biến đổi"
+      "meaning": "Chuyển đổi, biến đổi",
+      "ngayThem": ""
     },
     {
       "word": "Prepare",
       "pos": "v",
       "ipa": "/prɪˈper/ / /prɪˈpeə(r)/",
-      "meaning": "Chuẩn bị"
+      "meaning": "Chuẩn bị",
+      "ngayThem": ""
     },
     {
       "word": "Proof",
       "pos": "n",
       "ipa": "/pruːf/",
-      "meaning": "Bằng chứng"
+      "meaning": "Bằng chứng",
+      "ngayThem": ""
     },
     {
       "word": "Fund",
       "pos": "v",
       "ipa": "/fʌnd/",
-      "meaning": "Gây quỹ"
+      "meaning": "Gây quỹ",
+      "ngayThem": ""
     },
     {
       "word": "Efficient",
       "pos": "adj",
       "ipa": "/ɪˈfɪʃnt/",
-      "meaning": "Hiệu quả"
+      "meaning": "Hiệu quả",
+      "ngayThem": ""
     },
     {
       "word": "Bankrupt",
       "pos": "adj / n",
       "ipa": "/ˈbæŋkrʌpt/",
-      "meaning": "Phá sản"
+      "meaning": "Phá sản",
+      "ngayThem": ""
     },
     {
       "word": "Consume",
       "pos": "v",
       "ipa": "/kənˈsuːm/",
-      "meaning": "Tiêu tốn, tiêu thụ"
+      "meaning": "Tiêu tốn, tiêu thụ",
+      "ngayThem": ""
     },
     {
       "word": "Upgrade",
       "pos": "v",
       "ipa": "/ˌʌpˈɡreɪd/",
-      "meaning": "Nâng cấp, cải tiến"
+      "meaning": "Nâng cấp, cải tiến",
+      "ngayThem": ""
     },
     {
       "word": "Serve",
       "pos": "v",
       "ipa": "/sɜːrv/",
-      "meaning": "Phục vụ"
+      "meaning": "Phục vụ",
+      "ngayThem": ""
     },
     {
       "word": "Develop",
       "pos": "v",
       "ipa": "/dɪˈveləp/",
-      "meaning": "Phát triển"
+      "meaning": "Phát triển",
+      "ngayThem": ""
     },
     {
       "word": "Expansion",
       "pos": "n",
       "ipa": "/ɪkˈspænʃn/",
-      "meaning": "Sự mở rộng"
+      "meaning": "Sự mở rộng",
+      "ngayThem": ""
     },
     {
       "word": "Empty",
       "pos": "adj",
       "ipa": "/ˈempti/",
-      "meaning": "Trống rỗng"
+      "meaning": "Trống rỗng",
+      "ngayThem": ""
     },
     {
       "word": "Full",
       "pos": "adj",
       "ipa": "/fʊl/",
-      "meaning": "Đầy"
+      "meaning": "Đầy",
+      "ngayThem": ""
     },
     {
       "word": "Probably",
       "pos": "adv",
       "ipa": "/ˈprɑːbəbli/",
-      "meaning": "Có lẽ, có khả năng cao"
+      "meaning": "Có lẽ, có khả năng cao",
+      "ngayThem": ""
     },
     {
       "word": "Likely",
       "pos": "adj / adv",
       "ipa": "/ˈlaɪkli/",
-      "meaning": "Có khả năng xảy ra"
+      "meaning": "Có khả năng xảy ra",
+      "ngayThem": ""
     },
     {
       "word": "Board meeting",
       "pos": "n.phr",
       "ipa": "/bɔːrd ˈmiːtɪŋ/",
-      "meaning": "Cuộc họp hội đồng quản trị"
+      "meaning": "Cuộc họp hội đồng quản trị",
+      "ngayThem": ""
     },
     {
       "word": "Payment due",
       "pos": "n.phr",
       "ipa": "/ˈpeɪmənt duː/",
-      "meaning": "Hạn thanh toán / Khoản thanh toán đến hạn"
+      "meaning": "Hạn thanh toán / Khoản thanh toán đến hạn",
+      "ngayThem": ""
     },
     {
       "word": "Business card",
       "pos": "n.phr",
       "ipa": "/ˈbɪznəs kɑːrd/",
-      "meaning": "Danh thiếp làm việc"
+      "meaning": "Danh thiếp làm việc",
+      "ngayThem": ""
     },
     {
       "word": "Hallway",
       "pos": "n",
       "ipa": "/ˈhɔːlweɪ/",
-      "meaning": "Hành lang"
+      "meaning": "Hành lang",
+      "ngayThem": ""
     },
     {
       "word": "Kitchen appliance",
       "pos": "n.phr",
       "ipa": "/ˈkɪtʃɪn əˈplaɪəns/",
-      "meaning": "Thiết bị nhà bếp"
+      "meaning": "Thiết bị nhà bếp",
+      "ngayThem": ""
     },
     {
       "word": "Start",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Bắt đầu"
+      "meaning": "Bắt đầu",
+      "ngayThem": ""
     },
     {
       "word": "Begin",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Bắt đầu"
+      "meaning": "Bắt đầu",
+      "ngayThem": ""
     },
     {
       "word": "Love",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Yêu quý"
+      "meaning": "Yêu quý",
+      "ngayThem": ""
     },
     {
       "word": "Like",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Thích"
+      "meaning": "Thích",
+      "ngayThem": ""
     },
     {
       "word": "Prefer",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Thích hơn"
+      "meaning": "Thích hơn",
+      "ngayThem": ""
     },
     {
       "word": "Continue",
       "pos": "Động từ",
       "ipa": "",
-      "meaning": "Tiếp tục"
+      "meaning": "Tiếp tục",
+      "ngayThem": ""
     },
     {
       "word": "Stop V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Dừng hẳn việc đang làm"
+      "meaning": "Dừng hẳn việc đang làm",
+      "ngayThem": ""
     },
     {
       "word": "Stop to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Dừng lại để làm việc gì"
+      "meaning": "Dừng lại để làm việc gì",
+      "ngayThem": ""
     },
     {
       "word": "Remember to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Nhớ phải làm gì (hiện tại hoặc tương lai)"
+      "meaning": "Nhớ phải làm gì (hiện tại hoặc tương lai)",
+      "ngayThem": ""
     },
     {
       "word": "Remember V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Nhớ đã làm gì trong quá khứ"
+      "meaning": "Nhớ đã làm gì trong quá khứ",
+      "ngayThem": ""
     },
     {
       "word": "Forget to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Quên phải làm gì (hiện tại hoặc tương lai)"
+      "meaning": "Quên phải làm gì (hiện tại hoặc tương lai)",
+      "ngayThem": ""
     },
     {
       "word": "Forget V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Quên đã làm gì trong quá khứ"
+      "meaning": "Quên đã làm gì trong quá khứ",
+      "ngayThem": ""
     },
     {
       "word": "Regret to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Tiếc phải làm gì"
+      "meaning": "Tiếc phải làm gì",
+      "ngayThem": ""
     },
     {
       "word": "Regret V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Tiếc đã làm gì trong quá khứ"
+      "meaning": "Tiếc đã làm gì trong quá khứ",
+      "ngayThem": ""
     },
     {
       "word": "Try to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Cố gắng làm gì"
+      "meaning": "Cố gắng làm gì",
+      "ngayThem": ""
     },
     {
       "word": "Try V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Thử làm gì"
+      "meaning": "Thử làm gì",
+      "ngayThem": ""
     },
     {
       "word": "Used to V",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Từng làm gì trong quá khứ (hiện tại không còn thói quen đó)"
+      "meaning": "Từng làm gì trong quá khứ (hiện tại không còn thói quen đó)",
+      "ngayThem": ""
     },
     {
       "word": "Be used to V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Quen với việc làm gì"
+      "meaning": "Quen với việc làm gì",
+      "ngayThem": ""
     },
     {
       "word": "Get used to V-ing",
       "pos": "Cấu trúc động từ",
       "ipa": "",
-      "meaning": "Dần quen với việc làm gì"
+      "meaning": "Dần quen với việc làm gì",
+      "ngayThem": ""
     },
     {
       "word": "Direct traffic",
       "pos": "(phrasal v)",
       "ipa": "/daɪˈrekt ˈtræfɪk/",
-      "meaning": "Điều khiển giao thông"
+      "meaning": "Điều khiển giao thông",
+      "ngayThem": ""
     },
     {
       "word": "Break down",
       "pos": "(phrasal v)",
       "ipa": "/breɪk daʊn/",
-      "meaning": "Hỏng hóc, chết máy (xe cộ)"
+      "meaning": "Hỏng hóc, chết máy (xe cộ)",
+      "ngayThem": ""
     },
     {
       "word": "Commute",
       "pos": "(v)",
       "ipa": "/kəˈmjuːt/",
-      "meaning": "Di chuyển đi lại (thường xuyên giữa nhà và nơi làm việc)"
+      "meaning": "Di chuyển đi lại (thường xuyên giữa nhà và nơi làm việc)",
+      "ngayThem": ""
     },
     {
       "word": "Give sb a ride",
       "pos": "(idiom)",
       "ipa": "/ɡɪv ˌsʌmbədi ə raɪd/",
-      "meaning": "Cho ai đi nhờ xe"
+      "meaning": "Cho ai đi nhờ xe",
+      "ngayThem": ""
     },
     {
       "word": "Head for",
       "pos": "(phrasal v)",
       "ipa": "/hed fɔːr/",
-      "meaning": "Đi về hướng, tiến về phía"
+      "meaning": "Đi về hướng, tiến về phía",
+      "ngayThem": ""
     },
     {
       "word": "Drop off",
       "pos": "(phrasal v)",
       "ipa": "/drɒp ɒf/",
-      "meaning": "Thả xuống (trả khách hoặc trả hàng)"
+      "meaning": "Thả xuống (trả khách hoặc trả hàng)",
+      "ngayThem": ""
     },
     {
       "word": "Promote",
       "pos": "(v)",
       "ipa": "/prəˈməʊt/",
-      "meaning": "Thăng chức / Quảng bá"
+      "meaning": "Thăng chức / Quảng bá",
+      "ngayThem": ""
     },
     {
       "word": "Submit",
       "pos": "(v)",
       "ipa": "/səbˈmɪt/",
-      "meaning": "Nộp, đệ trình"
+      "meaning": "Nộp, đệ trình",
+      "ngayThem": ""
     },
     {
       "word": "Procedure",
       "pos": "(n)",
       "ipa": "/prəˈsiːdʒər/",
-      "meaning": "Quy trình, thủ tục"
+      "meaning": "Quy trình, thủ tục",
+      "ngayThem": ""
     },
     {
       "word": "Handle",
       "pos": "(v)",
       "ipa": "/ˈhændl/",
-      "meaning": "Giải quyết, xử lý"
+      "meaning": "Giải quyết, xử lý",
+      "ngayThem": ""
     },
     {
       "word": "Turn in",
       "pos": "(phrasal v)",
       "ipa": "/tɜːn ɪn/",
-      "meaning": "Nộp (giấy tờ, đơn từ)"
+      "meaning": "Nộp (giấy tờ, đơn từ)",
+      "ngayThem": ""
     },
     {
       "word": "Short-staffed",
       "pos": "(adj)",
       "ipa": "/ˌʃɔːt ˈstɑːft/",
-      "meaning": "Thiếu nhân viên"
+      "meaning": "Thiếu nhân viên",
+      "ngayThem": ""
     },
     {
       "word": "Retreat",
       "pos": "(n)",
       "ipa": "/rɪˈtriːt/",
-      "meaning": "Chuyến nghỉ dưỡng, xả hơi (của công ty)"
+      "meaning": "Chuyến nghỉ dưỡng, xả hơi (của công ty)",
+      "ngayThem": ""
     },
     {
       "word": "Satisfied",
       "pos": "(adj)",
       "ipa": "/ˈsætɪsfaɪd/",
-      "meaning": "Hài lòng"
+      "meaning": "Hài lòng",
+      "ngayThem": ""
     },
     {
       "word": "Involved",
       "pos": "(adj)",
       "ipa": "/ɪnˈvɒlvd/",
-      "meaning": "Tham gia, liên quan"
+      "meaning": "Tham gia, liên quan",
+      "ngayThem": ""
     },
     {
       "word": "Accustomed",
       "pos": "(adj)",
       "ipa": "/əˈkʌstəmd/",
-      "meaning": "Quen với"
+      "meaning": "Quen với",
+      "ngayThem": ""
     },
     {
       "word": "Dedicated",
       "pos": "(adj)",
       "ipa": "/ˈdedɪkeɪtɪd/",
-      "meaning": "Tận tụy, tận tâm"
+      "meaning": "Tận tụy, tận tâm",
+      "ngayThem": ""
     },
     {
       "word": "Annual meeting",
       "pos": "(n)",
       "ipa": "/ˈænjuəl ˈmiːtɪŋ/",
-      "meaning": "Cuộc họp thường niên"
+      "meaning": "Cuộc họp thường niên",
+      "ngayThem": ""
     },
     {
       "word": "Sophisticated",
       "pos": "(adj)",
       "ipa": "/səˈfɪstɪkeɪtɪd/",
-      "meaning": "Tinh vi, phức tạp, cao cấp"
+      "meaning": "Tinh vi, phức tạp, cao cấp",
+      "ngayThem": ""
     },
     {
       "word": "Complicated",
       "pos": "(adj)",
       "ipa": "/ˈkɒmplɪkeɪtɪd/",
-      "meaning": "Phức tạp"
+      "meaning": "Phức tạp",
+      "ngayThem": ""
     },
     {
       "word": "On a regular basis",
       "pos": "(idiom)",
       "ipa": "/ɒn ə ˈreɡjələ ˈbeɪsɪs/",
-      "meaning": "Đều đặn, thường xuyên"
+      "meaning": "Đều đặn, thường xuyên",
+      "ngayThem": ""
     },
     {
       "word": "Maintenance Department",
       "pos": "(n)",
       "ipa": "/ˈmeɪntənɪns dɪˈpɑːtmənt/",
-      "meaning": "Phòng / Bộ phận bảo trì"
+      "meaning": "Phòng / Bộ phận bảo trì",
+      "ngayThem": ""
     },
     {
       "word": "Open an account",
       "pos": "(v.phr)",
       "ipa": "/ˈəʊpən ən əˈkaʊnt/",
-      "meaning": "Mở tài khoản (ngân hàng)"
+      "meaning": "Mở tài khoản (ngân hàng)",
+      "ngayThem": ""
     },
     {
       "word": "Oversee",
       "pos": "(v)",
       "ipa": "/ˌəʊvəˈsiː/",
-      "meaning": "Giám sát"
+      "meaning": "Giám sát",
+      "ngayThem": ""
     },
     {
       "word": "Inspect",
       "pos": "(v)",
       "ipa": "/ɪnˈspekt/",
-      "meaning": "Kiểm tra, thanh tra"
+      "meaning": "Kiểm tra, thanh tra",
+      "ngayThem": ""
     },
     {
       "word": "Round-trip",
       "pos": "(adj)",
       "ipa": "/ˈraʊnd trɪp/",
-      "meaning": "(Vé) khứ hồi"
+      "meaning": "(Vé) khứ hồi",
+      "ngayThem": ""
     },
     {
       "word": "Plug in",
       "pos": "(phrasal v)",
       "ipa": "/plʌɡ ɪn/",
-      "meaning": "Cắm điện"
+      "meaning": "Cắm điện",
+      "ngayThem": ""
     },
     {
       "word": "General Director",
       "pos": "(n)",
       "ipa": "/ˈdʒenrəl daɪˈrektə(r)/",
-      "meaning": "Tổng giám đốc"
+      "meaning": "Tổng giám đốc",
+      "ngayThem": ""
     },
     {
       "word": "In charge of",
       "pos": "(prep.phr)",
       "ipa": "/ɪn tʃɑːdʒ əv/",
-      "meaning": "Phụ trách / Chịu trách nhiệm"
+      "meaning": "Phụ trách / Chịu trách nhiệm",
+      "ngayThem": ""
     },
     {
       "word": "Pick up",
       "pos": "(phrasal v)",
       "ipa": "/pɪk ʌp/",
-      "meaning": "Đón (ai đó) / Nhặt lên"
+      "meaning": "Đón (ai đó) / Nhặt lên",
+      "ngayThem": ""
     },
     {
       "word": "Office supply",
       "pos": "(n)",
       "ipa": "/ˈɒfɪs səˈplaɪ/",
-      "meaning": "Văn phòng phẩm"
+      "meaning": "Văn phòng phẩm",
+      "ngayThem": ""
     },
     {
       "word": "Interest rate",
       "pos": "(n)",
       "ipa": "/ˈɪntrəst reɪt/",
-      "meaning": "Lãi suất"
+      "meaning": "Lãi suất",
+      "ngayThem": ""
     },
     {
       "word": "Recipe",
       "pos": "(n)",
       "ipa": "/ˈresəpi/",
-      "meaning": "Công thức (nấu ăn)"
+      "meaning": "Công thức (nấu ăn)",
+      "ngayThem": ""
     },
     {
       "word": "Ingredient",
       "pos": "(n)",
       "ipa": "/ɪnˈɡriːdiənt/",
-      "meaning": "Nguyên liệu"
+      "meaning": "Nguyên liệu",
+      "ngayThem": ""
     },
     {
       "word": "Press conference",
       "pos": "(n)",
       "ipa": "/pres ˈkɒnfərəns/",
-      "meaning": "Cuộc họp báo"
+      "meaning": "Cuộc họp báo",
+      "ngayThem": ""
     },
     {
       "word": "Dozen / A dozen",
       "pos": "(n)",
       "ipa": "/ˈdʌzn / ə ˈdʌzn/",
-      "meaning": "Tá (12 cái/chiếc)"
+      "meaning": "Tá (12 cái/chiếc)",
+      "ngayThem": ""
     },
     {
       "word": "Cost / Expense",
       "pos": "(n)",
       "ipa": "/kɒst / ɪkˈspens/",
-      "meaning": "Chi phí, giá cả"
+      "meaning": "Chi phí, giá cả",
+      "ngayThem": ""
     },
     {
       "word": "Estimated budget",
       "pos": "(n)",
       "ipa": "/ˈestɪmeɪtɪd ˈbʌdʒɪt/",
-      "meaning": "Ngân sách ước tính"
+      "meaning": "Ngân sách ước tính",
+      "ngayThem": ""
     },
     {
       "word": "Charity organization",
       "pos": "(n)",
       "ipa": "/ˈtʃærəti ˌɔːɡənaɪˈzeɪʃn/",
-      "meaning": "Tổ chức từ thiện"
+      "meaning": "Tổ chức từ thiện",
+      "ngayThem": ""
     },
     {
       "word": "Multiple / Plenty",
       "pos": "(adj)",
       "ipa": "/ˈmʌltɪpl / ˈplenti/",
-      "meaning": "Nhiều, phong phú"
+      "meaning": "Nhiều, phong phú",
+      "ngayThem": ""
     },
     {
       "word": "Receptionist",
       "pos": "Danh từ",
       "ipa": "/rɪˈsepʃənɪst/",
-      "meaning": "Lễ tân"
+      "meaning": "Lễ tân",
+      "ngayThem": ""
     },
     {
       "word": "Supervisor",
       "pos": "Danh từ",
       "ipa": "/ˈsuːpəvaɪzə(r)/",
-      "meaning": "Người giám sát, quản lý"
+      "meaning": "Người giám sát, quản lý",
+      "ngayThem": ""
     },
     {
       "word": "Manager",
       "pos": "Danh từ",
       "ipa": "/ˈmænɪdʒə(r)/",
-      "meaning": "Người quản lý"
+      "meaning": "Người quản lý",
+      "ngayThem": ""
     },
     {
       "word": "Secretary",
       "pos": "Danh từ",
       "ipa": "/ˈsekrətri/",
-      "meaning": "Thư ký"
+      "meaning": "Thư ký",
+      "ngayThem": ""
     },
     {
       "word": "Vice president",
       "pos": "Cụm danh từ",
       "ipa": "/vaɪs ˈprezɪdənt/",
-      "meaning": "Phó chủ tịch"
+      "meaning": "Phó chủ tịch",
+      "ngayThem": ""
     },
     {
       "word": "Sunny",
       "pos": "Tính từ",
       "ipa": "/ˈsʌni/",
-      "meaning": "Có nắng"
+      "meaning": "Có nắng",
+      "ngayThem": ""
     },
     {
       "word": "Foggy",
       "pos": "Tính từ",
       "ipa": "/ˈfɒɡi/",
-      "meaning": "Có sương mù"
+      "meaning": "Có sương mù",
+      "ngayThem": ""
     },
     {
       "word": "Rainy",
       "pos": "Tính từ",
       "ipa": "/ˈreɪni/",
-      "meaning": "Có mưa"
+      "meaning": "Có mưa",
+      "ngayThem": ""
     },
     {
       "word": "Snowy",
       "pos": "Tính từ",
       "ipa": "/ˈsnəʊi/",
-      "meaning": "Có tuyết"
+      "meaning": "Có tuyết",
+      "ngayThem": ""
     },
     {
       "word": "Cloudy",
       "pos": "Tính từ",
       "ipa": "/ˈklaʊdi/",
-      "meaning": "Có mây"
+      "meaning": "Có mây",
+      "ngayThem": ""
     },
     {
       "word": "Accounting Department",
       "pos": "Cụm danh từ",
       "ipa": "/əˈkaʊntɪŋ dɪˈpɑːtmənt/",
-      "meaning": "Phòng Kế toán"
+      "meaning": "Phòng Kế toán",
+      "ngayThem": ""
     },
     {
-      "word": "Personnel Department (hoặc HR Department)",
+      "word": "Personnel Department / HR Department",
       "pos": "Cụm danh từ",
       "ipa": "/ˌpɜːsəˈnel dɪˈpɑːtmənt/",
-      "meaning": "Phòng Nhân sự"
+      "meaning": "Phòng Nhân sự",
+      "ngayThem": ""
     },
     {
       "word": "Purchasing Department",
       "pos": "Cụm danh từ",
       "ipa": "/ˈpɜːtʃəsɪŋ dɪˈpɑːtmənt/",
-      "meaning": "Phòng Mua hàng / Phòng Vật tư"
+      "meaning": "Phòng Mua hàng / Phòng Vật tư",
+      "ngayThem": ""
     },
     {
       "word": "Sales Department",
       "pos": "Cụm danh từ",
       "ipa": "/seɪlz dɪˈpɑːtmənt/",
-      "meaning": "Phòng Kinh doanh / Phòng Bán hàng"
+      "meaning": "Phòng Kinh doanh / Phòng Bán hàng",
+      "ngayThem": ""
     },
     {
       "word": "Deal with",
       "pos": "Phrasal Verb (Cụm động từ)",
       "ipa": "/diːl wɪð/",
-      "meaning": "Xử lý, giải quyết"
+      "meaning": "Xử lý, giải quyết",
+      "ngayThem": ""
     },
     {
       "word": "Donation",
       "pos": "Danh từ (n)",
       "ipa": "/dəʊˈneɪʃn/",
-      "meaning": "Tài trợ, khoản đóng góp"
+      "meaning": "Tài trợ, khoản đóng góp",
+      "ngayThem": ""
     },
     {
       "word": "Disable Disability",
       "pos": "Tính từ (adj) Danh từ (n)",
       "ipa": "/dɪsˈeɪbl/ /ˌdɪsəˈbɪləti/",
-      "meaning": "Khuyết tật, tàn tật Sự khuyết tật, sự tàn tật"
+      "meaning": "Khuyết tật, tàn tật Sự khuyết tật, sự tàn tật",
+      "ngayThem": ""
     },
     {
       "word": "Decide",
       "pos": "Động từ (v)",
       "ipa": "/dɪˈsaɪd/",
-      "meaning": "Quyết định"
+      "meaning": "Quyết định",
+      "ngayThem": ""
     },
     {
       "word": "Temporarily",
       "pos": "Trạng từ (adv)",
       "ipa": "/ˈtemprərəli/",
-      "meaning": "Tạm thời"
+      "meaning": "Tạm thời",
+      "ngayThem": ""
     },
     {
       "word": "Undergo",
       "pos": "Động từ (v)",
       "ipa": "/ˌʌndəˈɡəʊ/",
-      "meaning": "Trải qua"
+      "meaning": "Trải qua",
+      "ngayThem": ""
     },
     {
       "word": "Constantly",
       "pos": "Trạng từ (adv)",
       "ipa": "/ˈkɒnstəntli/",
-      "meaning": "Liên tục, luôn luôn"
+      "meaning": "Liên tục, luôn luôn",
+      "ngayThem": ""
     },
     {
       "word": "Professionally",
       "pos": "Trạng từ (adv)",
       "ipa": "/prəˈfeʃənəli/",
-      "meaning": "Một cách chuyên nghiệp"
+      "meaning": "Một cách chuyên nghiệp",
+      "ngayThem": ""
     },
     {
       "word": "Appreciate",
       "pos": "Động từ (v)",
       "ipa": "/əˈpriːʃieɪt/",
-      "meaning": "Cảm kích, đánh giá cao"
+      "meaning": "Cảm kích, đánh giá cao",
+      "ngayThem": ""
     },
     {
       "word": "Receive",
       "pos": "Động từ (v)",
       "ipa": "/rɪˈsiːv/",
-      "meaning": "Nhận"
+      "meaning": "Nhận",
+      "ngayThem": ""
     },
     {
       "word": "Announcement",
       "pos": "Danh từ (n)",
       "ipa": "/əˈnaʊnsmənt/",
-      "meaning": "Thông báo"
+      "meaning": "Thông báo",
+      "ngayThem": ""
     },
     {
       "word": "Porter",
       "pos": "Danh từ (n)",
       "ipa": "/ˈpɔːtə(r)/",
-      "meaning": "Nhân viên khuân vác (hành lý)"
+      "meaning": "Nhân viên khuân vác (hành lý)",
+      "ngayThem": ""
     },
     {
       "word": "Baggage handler",
       "pos": "Cụm danh từ (n)",
       "ipa": "/ˈbæɡɪdʒ ˈhændlə(r)/",
-      "meaning": "Nhân viên bốc xếp hành lý"
+      "meaning": "Nhân viên bốc xếp hành lý",
+      "ngayThem": ""
     },
     {
       "word": "Doorman",
       "pos": "Danh từ (n)",
       "ipa": "/ˈdɔːmən/",
-      "meaning": "Nhân viên gác cửa"
+      "meaning": "Nhân viên gác cửa",
+      "ngayThem": ""
     },
     {
       "word": "Driveway",
       "pos": "Danh từ (n)",
       "ipa": "/ˈdraɪvweɪ/",
-      "meaning": "Đường lái xe vào nhà/garage"
+      "meaning": "Đường lái xe vào nhà/garage",
+      "ngayThem": ""
     },
     {
       "word": "Statue",
       "pos": "Danh từ (n)",
       "ipa": "/ˈstætʃuː/",
-      "meaning": "Tượng"
+      "meaning": "Tượng",
+      "ngayThem": ""
     },
     {
       "word": "Drive",
       "pos": "Động từ (v)",
       "ipa": "/draɪv/",
-      "meaning": "Lái xe"
+      "meaning": "Lái xe",
+      "ngayThem": ""
     },
     {
       "word": "Driven",
       "pos": "Động từ / Phân từ (v)",
       "ipa": "/ˈdrɪvn/",
-      "meaning": "Dạng quá khứ phân từ của drive"
+      "meaning": "Dạng quá khứ phân từ của drive",
+      "ngayThem": ""
     },
     {
       "word": "Waitress",
       "pos": "Danh từ (n)",
       "ipa": "/ˈweɪtrəs/",
-      "meaning": "Nữ phục vụ bàn"
+      "meaning": "Nữ phục vụ bàn",
+      "ngayThem": ""
     },
     {
       "word": "Waiter",
       "pos": "Danh từ (n)",
       "ipa": "/ˈweɪtə(r)/",
-      "meaning": "Nam phục vụ bàn"
+      "meaning": "Nam phục vụ bàn",
+      "ngayThem": ""
     },
     {
       "word": "Pedestrian",
       "pos": "Danh từ (n)",
       "ipa": "/pəˈdestriən/",
-      "meaning": "Người đi bộ"
+      "meaning": "Người đi bộ",
+      "ngayThem": ""
     },
     {
       "word": "Train track",
       "pos": "Cụm danh từ (n)",
       "ipa": "/ˈtreɪn træk/",
-      "meaning": "Đường ray xe lửa"
+      "meaning": "Đường ray xe lửa",
+      "ngayThem": ""
     },
     {
       "word": "Bridge",
       "pos": "Danh từ (n)",
       "ipa": "/brɪdʒ/",
-      "meaning": "Cây cầu"
+      "meaning": "Cây cầu",
+      "ngayThem": ""
     },
     {
       "word": "Intersection",
       "pos": "Danh từ (n)",
       "ipa": "/ˌɪntəˈsekʃn/",
-      "meaning": "Giao lộ, ngã tư"
+      "meaning": "Giao lộ, ngã tư",
+      "ngayThem": ""
     },
     {
       "word": "Toll gate",
       "pos": "Cụm danh từ (n)",
       "ipa": "/təʊl ɡeɪt/",
-      "meaning": "Trạm thu phí"
+      "meaning": "Trạm thu phí",
+      "ngayThem": ""
     },
     {
       "word": "Station",
       "pos": "Danh từ (n)",
       "ipa": "/ˈsteɪʃn/",
-      "meaning": "Nhà ga"
+      "meaning": "Nhà ga",
+      "ngayThem": ""
     },
     {
       "word": "Truck",
       "pos": "Danh từ (n)",
       "ipa": "/trʌk/",
-      "meaning": "Xe tải"
+      "meaning": "Xe tải",
+      "ngayThem": ""
     },
     {
       "word": "Grocery store",
       "pos": "Cụm danh từ (n)",
       "ipa": "/ˈɡrəʊsəri stɔː(r)/",
-      "meaning": "Cửa hàng bách hoá"
+      "meaning": "Cửa hàng bách hoá",
+      "ngayThem": ""
     },
     {
       "word": "Trainer",
       "pos": "Danh từ (n)",
       "ipa": "/ˈtreɪnə(r)/",
-      "meaning": "Huấn luyện viên"
+      "meaning": "Huấn luyện viên",
+      "ngayThem": ""
     },
     {
       "word": "Treadmill",
       "pos": "Danh từ (n)",
       "ipa": "/ˈtredmɪl/",
-      "meaning": "Máy chạy bộ tập thể dục"
+      "meaning": "Máy chạy bộ tập thể dục",
+      "ngayThem": ""
     },
     {
       "word": "Demolish",
       "pos": "/dɪˈmɑːlɪʃ/",
       "ipa": "Động từ (v)",
-      "meaning": "Phá hủy"
+      "meaning": "Phá hủy",
+      "ngayThem": ""
     },
     {
       "word": "Release",
       "pos": "/riˈliːs/",
       "ipa": "Động từ (v)",
-      "meaning": "Phát hành"
+      "meaning": "Phát hành",
+      "ngayThem": ""
     },
     {
       "word": "Investment",
       "pos": "/ɪnˈvestmənt/",
       "ipa": "Danh từ (n)",
-      "meaning": "Sự đầu tư"
+      "meaning": "Sự đầu tư",
+      "ngayThem": ""
     },
     {
       "word": "Annual",
       "pos": "/ˈænjuəl/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Hàng năm"
+      "meaning": "Hàng năm",
+      "ngayThem": ""
     },
     {
       "word": "Original",
       "pos": "/əˈrɪdʒənl/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Gốc, ban đầu"
+      "meaning": "Gốc, ban đầu",
+      "ngayThem": ""
     },
     {
       "word": "Appoint",
       "pos": "/əˈpɔɪnt/",
       "ipa": "Động từ (v)",
-      "meaning": "Bổ nhiệm"
+      "meaning": "Bổ nhiệm",
+      "ngayThem": ""
     },
     {
       "word": "Suitable",
       "pos": "/ˈsuːtəbl/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Phù hợp (đi với giới từ for/to)"
+      "meaning": "Phù hợp (đi với giới từ for/to)",
+      "ngayThem": ""
     },
     {
       "word": "Conscious",
       "pos": "/ˈkɑːnʃəs/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Có ý thức, nhận thức"
+      "meaning": "Có ý thức, nhận thức",
+      "ngayThem": ""
     },
     {
       "word": "Aware",
       "pos": "/əˈwer/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Biết, nhận thức được (Cấu trúc: be aware of)"
+      "meaning": "Biết, nhận thức được (Cấu trúc: be aware of)",
+      "ngayThem": ""
     },
     {
       "word": "Responsible",
       "pos": "/rɪˈspɑːnsəbl/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Chịu trách nhiệm (Cấu trúc: to be responsible for sth = to be in charge of)"
+      "meaning": "Chịu trách nhiệm (Cấu trúc: to be responsible for sth = to be in charge of)",
+      "ngayThem": ""
     },
     {
       "word": "Occupied",
       "pos": "/ˈɑːkjupaɪd/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Bị chiếm giữ"
+      "meaning": "Bị chiếm giữ",
+      "ngayThem": ""
     },
     {
       "word": "Unoccupied / Vacant",
       "pos": "/ˌʌnˈɑːkjupaɪd/ / /ˈveɪkənt/",
       "ipa": "Tính từ (adj)",
-      "meaning": "Trống, chưa có người dùng"
+      "meaning": "Trống, chưa có người dùng",
+      "ngayThem": ""
     },
     {
       "word": "Confidential",
       "pos": "/ˌkɑːnfɪˈdenʃl/",
       "ipa": "adj",
-      "meaning": "Bảo mật"
+      "meaning": "Bảo mật",
+      "ngayThem": ""
     },
     {
       "word": "Electronic device",
       "pos": "/ɪˌlekˈtrɑːnɪk/ /dɪˈvaɪs/",
       "ipa": "n.p",
-      "meaning": "Thiết bị điện tử"
+      "meaning": "Thiết bị điện tử",
+      "ngayThem": ""
     },
     {
       "word": "Convenient",
       "pos": "/kənˈviːniənt/",
       "ipa": "adj",
-      "meaning": "Tiện lợi"
+      "meaning": "Tiện lợi",
+      "ngayThem": ""
     },
     {
       "word": "Consistently",
       "pos": "/kənˈsɪstəntli/",
       "ipa": "adv",
-      "meaning": "Liên tục"
+      "meaning": "Liên tục",
+      "ngayThem": ""
     },
     {
       "word": "Productivity",
       "pos": "/ˌprəʊdʌkˈtɪvəti/",
       "ipa": "n",
-      "meaning": "Năng suất"
+      "meaning": "Năng suất",
+      "ngayThem": ""
     },
     {
       "word": "Processed food",
       "pos": "/ˈprɑːses/ /ˈprəʊses/",
       "ipa": "n",
-      "meaning": "Thực phẩm chế biến sẵn"
+      "meaning": "Thực phẩm chế biến sẵn",
+      "ngayThem": ""
     },
     {
       "word": "Mutual",
       "pos": "/ˈmjuːtʃuəl/",
       "ipa": "adj",
-      "meaning": "Lẫn nhau, chung"
+      "meaning": "Lẫn nhau, chung",
+      "ngayThem": ""
     },
     {
       "word": "Receipt",
       "pos": "/rɪˈsiːt/",
       "ipa": "n",
-      "meaning": "Biên lai"
+      "meaning": "Biên lai",
+      "ngayThem": ""
     },
     {
       "word": "Hardly",
       "pos": "/ˈhɑːrdli/",
       "ipa": "adv",
-      "meaning": "Hầu như không (ví dụ: hardly believe: khó tin)"
+      "meaning": "Hầu như không (ví dụ: hardly believe: khó tin)",
+      "ngayThem": ""
     },
     {
       "word": "Update",
       "pos": "/ˌʌpˈdeɪt/",
       "ipa": "v",
-      "meaning": "Cập nhật"
+      "meaning": "Cập nhật",
+      "ngayThem": ""
     },
     {
       "word": "Transition",
       "pos": "/trænˈzɪʃn/",
       "ipa": "n",
-      "meaning": "Chuyển đổi"
+      "meaning": "Chuyển đổi",
+      "ngayThem": ""
     },
     {
       "word": "Transaction",
       "pos": "/trænˈzækʃn/",
       "ipa": "n",
-      "meaning": "Giao dịch"
+      "meaning": "Giao dịch",
+      "ngayThem": ""
     },
     {
       "word": "Resolve",
       "pos": "/rɪˈzɑːlv/ /rɪˈzɒlv/",
       "ipa": "v",
-      "meaning": "Giải quyết"
+      "meaning": "Giải quyết",
+      "ngayThem": ""
     },
     {
       "word": "Descend",
       "pos": "/dɪˈsend/",
       "ipa": "v",
-      "meaning": "Đi xuống"
+      "meaning": "Đi xuống",
+      "ngayThem": ""
     },
     {
       "word": "Put on",
       "pos": "/pʊt ɑːn/",
       "ipa": "v",
-      "meaning": "Mặc vào, đội vào"
+      "meaning": "Mặc vào, đội vào",
+      "ngayThem": ""
     },
     {
       "word": "Try on",
       "pos": "/traɪ ɑːn/",
       "ipa": "v",
-      "meaning": "Thử quần áo/giày dép"
+      "meaning": "Thử quần áo/giày dép",
+      "ngayThem": ""
     },
     {
       "word": "Luggage / Baggage / Suitcase",
       "pos": "/ˈlʌɡɪdʒ/ / /ˈbæɡɪdʒ/ / /ˈsuːtkeɪs/",
       "ipa": "n",
-      "meaning": "Hành lý / Vali"
+      "meaning": "Hành lý / Vali",
+      "ngayThem": ""
     },
     {
       "word": "Mow the grass / Lawn",
       "pos": "/məʊ ðə ɡræs/ / /lɔːn/",
       "ipa": "v / n",
-      "meaning": "Cắt cỏ / Bãi cỏ"
+      "meaning": "Cắt cỏ / Bãi cỏ",
+      "ngayThem": ""
     },
     {
       "word": "march in steps",
       "pos": "/mɑːrtʃ ɪn steps/",
       "ipa": "v.phr",
-      "meaning": "Đi đều bước"
+      "meaning": "Đi đều bước",
+      "ngayThem": ""
     },
     {
       "word": "Wrap",
       "pos": "/ræp/",
       "ipa": "v",
-      "meaning": "Gói (quà, đồ đạc)"
+      "meaning": "Gói (quà, đồ đạc)",
+      "ngayThem": ""
     },
     {
       "word": "Dessert",
       "pos": "/dɪˈzɜːrt/ (phân biệt Desert: /ˈdezərt/)",
       "ipa": "n",
-      "meaning": "Món tráng miệng"
+      "meaning": "Món tráng miệng",
+      "ngayThem": ""
     },
     {
       "word": "File cabinet / Filing cabinet / File storage",
       "pos": "/ˈfaɪl kæbɪnət/ / /ˈfaɪlɪŋ kæbɪnət/ / /ˈfaɪl stɔːrɪdʒ/",
       "ipa": "n",
-      "meaning": "Tủ đựng tài liệu, hồ sơ"
+      "meaning": "Tủ đựng tài liệu, hồ sơ",
+      "ngayThem": ""
     },
     {
       "word": "Laboratory",
       "pos": "/ˈlæbrətɔːri/",
       "ipa": "n",
-      "meaning": "Phòng thí nghiệm"
+      "meaning": "Phòng thí nghiệm",
+      "ngayThem": ""
     },
     {
       "word": "Microscope",
       "pos": "/ˈmaɪkrəskəʊp/",
       "ipa": "n",
-      "meaning": "Kính hiển vi"
+      "meaning": "Kính hiển vi",
+      "ngayThem": ""
     },
     {
       "word": "Examine",
       "pos": "/ɪɡˈzæmɪn/",
       "ipa": "v",
-      "meaning": "Xem xét, kiểm tra, nghiên cứu (từ đồng nghĩa: analyse, review, study, discuss)"
+      "meaning": "Xem xét, kiểm tra, nghiên cứu (từ đồng nghĩa: analyse, review, study, discuss)",
+      "ngayThem": ""
     },
     {
       "word": "vacuum the floor",
       "pos": "Cụm động từ",
       "ipa": "/ˈvækjuːm ðə flɔːr/",
-      "meaning": "Hút bụi sàn nhà"
+      "meaning": "Hút bụi sàn nhà",
+      "ngayThem": ""
     },
     {
       "word": "stir the food",
       "pos": "Cụm động từ",
       "ipa": "/stɜːr ðə fuːd/",
-      "meaning": "Khuấy thức ăn"
+      "meaning": "Khuấy thức ăn",
+      "ngayThem": ""
     },
     {
       "word": "watch TV",
       "pos": "Cụm động từ",
       "ipa": "/wɒtʃ ˌtiːˈviː/",
-      "meaning": "Xem tivi"
+      "meaning": "Xem tivi",
+      "ngayThem": ""
     },
     {
       "word": "chop a vegetable",
       "pos": "Cụm động từ",
       "ipa": "/tʃɑːp ˈvedʒtəblz/",
-      "meaning": "Băm/thái rau củ"
+      "meaning": "Băm/thái rau củ",
+      "ngayThem": ""
     },
     {
       "word": "stack dishes",
       "pos": "Cụm động từ",
       "ipa": "/stæk ˈdɪʃɪz/",
-      "meaning": "Xếp chồng đĩa/chén"
+      "meaning": "Xếp chồng đĩa/chén",
+      "ngayThem": ""
     },
     {
       "word": "cut the grass",
       "pos": "Cụm động từ",
       "ipa": "/kʌt ðə ɡrɑːs/",
-      "meaning": "Cắt cỏ"
+      "meaning": "Cắt cỏ",
+      "ngayThem": ""
     },
     {
       "word": "hold a watering can",
       "pos": "Cụm động từ",
       "ipa": "/həʊld ə ˈwɔːtərɪŋ kæn/",
-      "meaning": "Cầm bình tưới nước"
+      "meaning": "Cầm bình tưới nước",
+      "ngayThem": ""
     },
     {
       "word": "plant flowers",
       "pos": "Cụm động từ",
       "ipa": "/plɑːnt ˈflaʊərz/",
-      "meaning": "Trồng hoa"
+      "meaning": "Trồng hoa",
+      "ngayThem": ""
     },
     {
       "word": "wipe a counter",
       "pos": "Cụm động từ",
       "ipa": "/waɪp ə ˈkaʊntər/",
-      "meaning": "Lau quầy/bàn bếp"
+      "meaning": "Lau quầy/bàn bếp",
+      "ngayThem": ""
     },
     {
       "word": "look at",
       "pos": "Cụm động từ",
       "ipa": "/lʊk æt/",
-      "meaning": "Nhìn vào"
+      "meaning": "Nhìn vào",
+      "ngayThem": ""
     },
     {
       "word": "roll up blinds",
       "pos": "Cụm động từ",
       "ipa": "/rəʊl ʌp blaɪndz/",
-      "meaning": "Cuốn rèm cửa lên"
+      "meaning": "Cuốn rèm cửa lên",
+      "ngayThem": ""
     },
     {
       "word": "move a chair",
       "pos": "Cụm động từ",
       "ipa": "/muːv ə tʃeər/",
-      "meaning": "Di chuyển một chiếc ghế"
+      "meaning": "Di chuyển một chiếc ghế",
+      "ngayThem": ""
     },
     {
       "word": "lean on",
       "pos": "Cụm động từ",
       "ipa": "/liːn ɒn/",
-      "meaning": "Tựa vào"
+      "meaning": "Tựa vào",
+      "ngayThem": ""
     },
     {
       "word": "give a presentation",
       "pos": "Cụm động từ",
       "ipa": "/ɡɪv ə ˌpreznˈteɪʃn/",
-      "meaning": "Thuyết trình"
+      "meaning": "Thuyết trình",
+      "ngayThem": ""
     },
     {
       "word": "take inventory",
       "pos": "Cụm động từ",
       "ipa": "/teɪk ˈɪnvəntri/; /teɪk ˈɪnvəntɔːri/",
-      "meaning": "Kiểm kê hàng hóa"
+      "meaning": "Kiểm kê hàng hóa",
+      "ngayThem": ""
     },
     {
       "word": "typing",
       "pos": "Danh động từ",
       "ipa": "/ˈtaɪpɪŋ/",
-      "meaning": "Đánh máy, gõ máy tính"
+      "meaning": "Đánh máy, gõ máy tính",
+      "ngayThem": ""
     },
     {
       "word": "talking",
       "pos": "Danh động từ",
       "ipa": "/ˈtɔːkɪŋ/",
-      "meaning": "Nói chuyện"
+      "meaning": "Nói chuyện",
+      "ngayThem": ""
     },
     {
       "word": "pointing",
       "pos": "Danh động từ",
       "ipa": "/ˈpɔɪntɪŋ/",
-      "meaning": "Chỉ tay"
+      "meaning": "Chỉ tay",
+      "ngayThem": ""
     },
     {
       "word": "writing",
       "pos": "Danh động từ",
       "ipa": "/ˈraɪtɪŋ/",
-      "meaning": "Viết"
+      "meaning": "Viết",
+      "ngayThem": ""
     },
     {
       "word": "gesturing",
       "pos": "Danh động từ",
       "ipa": "/ˈdʒestʃərɪŋ/",
-      "meaning": "Điệu bộ bằng tay"
+      "meaning": "Điệu bộ bằng tay",
+      "ngayThem": ""
     },
     {
-      "word": "Qualified (Be qualified for)",
+      "word": "Qualified",
       "pos": "Adj / Exp",
       "ipa": "/ˈkwäləˌfīd/",
-      "meaning": "Đủ điều kiện, có đủ năng lực"
+      "meaning": "( Be qualified for) Đủ điều kiện, có đủ năng lực",
+      "ngayThem": ""
     },
     {
       "word": "Application",
       "pos": "Noun",
       "ipa": "/ˌæplɪˈkeɪʃn/",
-      "meaning": "Đơn đăng ký, đơn xin việc"
+      "meaning": "Đơn đăng ký, đơn xin việc",
+      "ngayThem": ""
     },
     {
       "word": "Competitor",
       "pos": "Noun",
       "ipa": "/kəmˈpetɪtər/",
-      "meaning": "Đối thủ cạnh tranh"
+      "meaning": "Đối thủ cạnh tranh",
+      "ngayThem": ""
     },
     {
       "word": "Patient",
       "pos": "Noun/Adj",
       "ipa": "/ˈpeɪʃnt/",
-      "meaning": "Bệnh nhân / Kiên nhẫn"
+      "meaning": "Bệnh nhân / Kiên nhẫn",
+      "ngayThem": ""
     },
     {
       "word": "Contract",
       "pos": "Noun",
       "ipa": "/ˈkɑːntrækt/",
-      "meaning": "Hợp đồng"
+      "meaning": "Hợp đồng",
+      "ngayThem": ""
     },
     {
       "word": "Regulation",
       "pos": "Noun",
       "ipa": "/ˌreɡjuˈleɪʃn/",
-      "meaning": "Quy định, quy tắc"
+      "meaning": "Quy định, quy tắc",
+      "ngayThem": ""
     },
     {
       "word": "Rent",
       "pos": "Noun/Verb",
       "ipa": "/rent/",
-      "meaning": "Tiền thuê nhà / Thuê"
+      "meaning": "Tiền thuê nhà / Thuê",
+      "ngayThem": ""
     },
     {
       "word": "Reference",
       "pos": "Noun",
       "ipa": "/ˈrefərəns/",
-      "meaning": "Thư giới thiệu, sự tham khảo"
+      "meaning": "Thư giới thiệu, sự tham khảo",
+      "ngayThem": ""
     },
     {
       "word": "Defect",
       "pos": "Noun",
       "ipa": "/ˈdiːfekt/",
-      "meaning": "Nhược điểm, lỗi, hỏng hóc"
+      "meaning": "Nhược điểm, lỗi, hỏng hóc",
+      "ngayThem": ""
     },
     {
       "word": "Affordable",
       "pos": "Adj",
       "ipa": "/əˈfɔːrdəbl/",
-      "meaning": "Phải chăng, vừa túi tiền (giá cả)"
+      "meaning": "Phải chăng, vừa túi tiền (giá cả)",
+      "ngayThem": ""
     },
     {
       "word": "Complaint",
       "pos": "Noun",
       "ipa": "/kəmˈpleɪnt/",
-      "meaning": "Lời phàn nàn, sự khiếu nại"
+      "meaning": "Lời phàn nàn, sự khiếu nại",
+      "ngayThem": ""
     },
     {
       "word": "Relative",
       "pos": "Noun",
       "ipa": "/ˈrelətɪv/",
-      "meaning": "Họ hàng, người thân"
+      "meaning": "Họ hàng, người thân",
+      "ngayThem": ""
     },
     {
       "word": "Appointment",
       "pos": "Noun",
       "ipa": "/əˈpɔɪntmənt/",
-      "meaning": "Cuộc hẹn, sự bổ nhiệm"
+      "meaning": "Cuộc hẹn, sự bổ nhiệm",
+      "ngayThem": ""
     },
     {
       "word": "Traffic",
       "pos": "Noun",
       "ipa": "/ˈtræfɪk/",
-      "meaning": "Giao thông, lượng xe cộ qua lại"
+      "meaning": "Giao thông, lượng xe cộ qua lại",
+      "ngayThem": ""
     },
     {
       "word": "Clear out",
       "pos": "Verb phrase",
       "ipa": "/klɪr aʊt/",
-      "meaning": "Dọn sạch, tống khứ, thanh lý"
+      "meaning": "Dọn sạch, tống khứ, thanh lý",
+      "ngayThem": ""
     },
     {
       "word": "Merchandise",
       "pos": "Noun",
       "ipa": "/ˈmɜːrtʃəndaɪs/",
-      "meaning": "Hàng hóa"
+      "meaning": "Hàng hóa",
+      "ngayThem": ""
     },
     {
       "word": "Downtown",
       "pos": "Noun/Adv",
       "ipa": "/ˌdaʊnˈtaʊn/",
-      "meaning": "Khu trung tâm thành phố"
+      "meaning": "Khu trung tâm thành phố",
+      "ngayThem": ""
+    },
+    {
+      "word": "excellent skill",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈeksələnt skɪl/",
+      "meaning": "Kỹ năng xuất sắc",
+      "ngayThem": ""
+    },
+    {
+      "word": "upcoming project",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈʌpkʌmɪŋ ˈprɑːdʒekt/",
+      "meaning": "Dự án sắp tới",
+      "ngayThem": ""
+    },
+    {
+      "word": "display hall",
+      "pos": "Cụm danh từ",
+      "ipa": "/dɪˈspleɪ hɔːl/",
+      "meaning": "Phòng trưng bày",
+      "ngayThem": ""
+    },
+    {
+      "word": "specialize in",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈspeʃəlaɪz ɪn/",
+      "meaning": "Chuyên về, chuyên môn hóa trong",
+      "ngayThem": ""
+    },
+    {
+      "word": "work efficiency",
+      "pos": "Cụm danh từ",
+      "ipa": "/wɜːrk ɪˈfɪʃənsi/",
+      "meaning": "Hiệu suất làm việc",
+      "ngayThem": ""
+    },
+    {
+      "word": "reach an agreement",
+      "pos": "Cụm động từ",
+      "ipa": "/riːtʃ ən əˈɡriːmənt/",
+      "meaning": "Đạt được thỏa thuận",
+      "ngayThem": ""
+    },
+    {
+      "word": "Have a reservation / Reserve",
+      "pos": "Cụm động từ / Động từ",
+      "ipa": "/rɪˈzɜːv/",
+      "meaning": "Đặt trước, đặt chỗ trước",
+      "ngayThem": ""
+    },
+    {
+      "word": "Cancellation",
+      "pos": "Danh từ",
+      "ipa": "/ˌkænsəˈleɪʃn/",
+      "meaning": "Sự hủy bỏ",
+      "ngayThem": ""
+    },
+    {
+      "word": "Accommodation",
+      "pos": "Danh từ",
+      "ipa": "/əˌkɒməˈdeɪʃn/",
+      "meaning": "Chỗ ở",
+      "ngayThem": ""
+    },
+    {
+      "word": "Minibar",
+      "pos": "Danh từ",
+      "ipa": "/ˈmɪnibɑːr/",
+      "meaning": "Tủ lạnh nhỏ (trong phòng khách sạn)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Under the name of",
+      "pos": "Cụm giới từ",
+      "ipa": "/ˈʌndər ðə neɪm ɒv/",
+      "meaning": "Dưới tên là",
+      "ngayThem": ""
+    },
+    {
+      "word": "Within walking distance",
+      "pos": "Cụm từ",
+      "ipa": "/wɪðˈɪn ˈwɔːkɪŋ ˈdɪstəns/",
+      "meaning": "Khoảng cách có thể đi bộ được (gần)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Book a room",
+      "pos": "Cụm động từ",
+      "ipa": "/bʊk ə ruːm/",
+      "meaning": "Đặt phòng",
+      "ngayThem": ""
+    },
+    {
+      "word": "Be charged",
+      "pos": "Cụm động từ",
+      "ipa": "/biː tʃɑːrdʒd/",
+      "meaning": "Bị tính phí",
+      "ngayThem": ""
+    },
+    {
+      "word": "Continental breakfast",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌkɒntɪˈnentl ˈbrekfəst/",
+      "meaning": "Bữa sáng kiểu lục địa (kiểu Âu nhẹ nhàng)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Public transportation",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃn/",
+      "meaning": "Phương tiện giao thông công cộng",
+      "ngayThem": ""
+    },
+    {
+      "word": "Vacancy",
+      "pos": "Danh từ",
+      "ipa": "/ˈveɪkənsi/",
+      "meaning": "Chỗ trống (phòng trống)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Kitchenette",
+      "pos": "Danh từ",
+      "ipa": "/ˌkɪtʃɪˈnet/",
+      "meaning": "Gian bếp nhỏ",
+      "ngayThem": ""
+    },
+    {
+      "word": "Amenity",
+      "pos": "Danh từ",
+      "ipa": "/əˈmenəti/",
+      "meaning": "Tiện nghi, cơ sở vật chất",
+      "ngayThem": ""
+    },
+    {
+      "word": "Handicapped facility",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈhændikæpt fəˈsɪləti/",
+      "meaning": "Cơ sở vật chất dành cho người khuyết tật",
+      "ngayThem": ""
+    },
+    {
+      "word": "Passport",
+      "pos": "Danh từ",
+      "ipa": "/ˈpɑːspɔːrt/",
+      "meaning": "Hộ chiếu",
+      "ngayThem": ""
+    },
+    {
+      "word": "Metal detector",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈmetl dɪˈtektər/",
+      "meaning": "Máy phát hiện kim loại",
+      "ngayThem": ""
+    },
+    {
+      "word": "Pick up luggage",
+      "pos": "Cụm động từ",
+      "ipa": "/pɪk ʌp ˈlʊɡɪdʒ/",
+      "meaning": "Lấy hành lý",
+      "ngayThem": ""
+    },
+    {
+      "word": "Boarding pass",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "meaning": "Thẻ lên máy bay",
+      "ngayThem": ""
+    },
+    {
+      "word": "Check-in bags",
+      "pos": "Cụm động từ",
+      "ipa": "/tʃek ɪn bæɡz/",
+      "meaning": "Ký gửi hành lý",
+      "ngayThem": ""
+    },
+    {
+      "word": "Conveyor belt",
+      "pos": "Cụm danh từ",
+      "ipa": "/kənˈveɪər belt/",
+      "meaning": "Băng chuyền (hành lý)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Final destination",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈfaɪnl ˌdestɪˈneɪʃn/",
+      "meaning": "Điểm đến cuối cùng",
+      "ngayThem": ""
+    },
+    {
+      "word": "Baggage claim",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "meaning": "Khu vực nhận hành lý thất lạc / Khu nhận hành lý",
+      "ngayThem": ""
+    },
+    {
+      "word": "Immigration",
+      "pos": "Danh từ",
+      "ipa": "/ˌɪmɪˈɡreɪʃn/",
+      "meaning": "Khu vực kiểm tra xuất nhập cảnh",
+      "ngayThem": ""
+    },
+    {
+      "word": "Connecting flight",
+      "pos": "Cụm danh từ",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "meaning": "Chuyến bay chuyển tiếp (quá cảnh)",
+      "ngayThem": ""
+    },
+    {
+      "word": "Overweight baggage",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌəʊvərˈweɪt ˈbæɡɪdʒ/",
+      "meaning": "Hành lý quá khổ / quá cân",
+      "ngayThem": ""
+    },
+    {
+      "word": "Layover",
+      "pos": "Danh từ",
+      "ipa": "/ˈleɪəʊvər/",
+      "meaning": "Thời gian dừng quá cảnh",
+      "ngayThem": ""
+    },
+    {
+      "word": "Injury",
+      "pos": "Danh từ",
+      "ipa": "/ˈɪndʒəri/",
+      "meaning": "Vết thương, tổn thương",
+      "ngayThem": ""
+    },
+    {
+      "word": "Assistant coordinator",
+      "pos": "Cụm danh từ",
+      "ipa": "/əˈsɪstənt kəʊˈɔːrdɪneɪtər/",
+      "meaning": "Trợ lý điều phối",
+      "ngayThem": ""
+    },
+    {
+      "word": "Survey",
+      "pos": "Danh từ / Động từ",
+      "ipa": "/ˈsɜːrveɪ/",
+      "meaning": "Bản khảo sát / Khảo sát",
+      "ngayThem": ""
+    },
+    {
+      "word": "Conduct",
+      "pos": "Động từ",
+      "ipa": "/kənˈdʌkt/",
+      "meaning": "Tiến hành, thực hiện",
+      "ngayThem": ""
+    },
+    {
+      "word": "Host",
+      "pos": "Động từ",
+      "ipa": "/həʊst/",
+      "meaning": "Chủ trì, tổ chức",
+      "ngayThem": ""
+    },
+    {
+      "word": "With regard to",
+      "pos": "Cụm giới từ",
+      "ipa": "/wɪð rɪˈɡɑːrd tuː/",
+      "meaning": "Liên quan đến",
+      "ngayThem": ""
+    },
+    {
+      "word": "Eligible for",
+      "pos": "Cụm tính từ",
+      "ipa": "/ˈelɪdʒəbl fɔːr/",
+      "meaning": "Có đủ tư cách, đủ điều kiện...",
+      "ngayThem": ""
+    },
+    {
+      "word": "Suppose",
+      "pos": "Động từ",
+      "ipa": "/səˈpəʊz/",
+      "meaning": "Cho rằng, nghĩ rằng",
+      "ngayThem": ""
+    },
+    {
+      "word": "Technician",
+      "pos": "Danh từ",
+      "ipa": "/tekˈnɪʃn/",
+      "meaning": "Kỹ thuật viên",
+      "ngayThem": ""
+    },
+    {
+      "word": "Settle",
+      "pos": "Động từ",
+      "ipa": "/ˈsetl/",
+      "meaning": "Giải quyết",
+      "ngayThem": ""
+    },
+    {
+      "word": "Dispatch",
+      "pos": "Động từ",
+      "ipa": "/dɪˈspætʃ/",
+      "meaning": "Cử đi, phái đi",
+      "ngayThem": ""
     }
-  ]
+  ],
+  "dupeCount": 29
 }
