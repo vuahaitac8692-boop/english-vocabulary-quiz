@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-10-27T09:01:08.830Z",
+  "exportedAt": "2026-10-29T01:51:38.393Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2143,7 +2143,73 @@
       "pos": "Danh từ",
       "ipa": "/ˈleɪəʊvər/",
       "meaning": "Thời gian dừng quá cảnh"
+    },
+    {
+      "word": "Injury",
+      "pos": "Danh từ",
+      "ipa": "/ˈɪndʒəri/",
+      "meaning": "Vết thương, tổn thương"
+    },
+    {
+      "word": "Assistant coordinator",
+      "pos": "Cụm danh từ",
+      "ipa": "/əˈsɪstənt kəʊˈɔːrdɪneɪtər/",
+      "meaning": "Trợ lý điều phối"
+    },
+    {
+      "word": "Survey",
+      "pos": "Danh từ / Động từ",
+      "ipa": "/ˈsɜːrveɪ/",
+      "meaning": "Bản khảo sát / Khảo sát"
+    },
+    {
+      "word": "Conduct",
+      "pos": "Động từ",
+      "ipa": "/kənˈdʌkt/",
+      "meaning": "Tiến hành, thực hiện"
+    },
+    {
+      "word": "Host",
+      "pos": "Động từ",
+      "ipa": "/həʊst/",
+      "meaning": "Chủ trì, tổ chức"
+    },
+    {
+      "word": "With regard to",
+      "pos": "Cụm giới từ",
+      "ipa": "/wɪð rɪˈɡɑːrd tuː/",
+      "meaning": "Liên quan đến"
+    },
+    {
+      "word": "Eligible for",
+      "pos": "Cụm tính từ",
+      "ipa": "/ˈelɪdʒəbl fɔːr/",
+      "meaning": "Có đủ tư cách, đủ điều kiện..."
+    },
+    {
+      "word": "Suppose",
+      "pos": "Động từ",
+      "ipa": "/səˈpəʊz/",
+      "meaning": "Cho rằng, nghĩ rằng"
+    },
+    {
+      "word": "Technician",
+      "pos": "Danh từ",
+      "ipa": "/tekˈnɪʃn/",
+      "meaning": "Kỹ thuật viên"
+    },
+    {
+      "word": "Settle",
+      "pos": "Động từ",
+      "ipa": "/ˈsetl/",
+      "meaning": "Giải quyết"
+    },
+    {
+      "word": "Dispatch",
+      "pos": "Động từ",
+      "ipa": "/dɪˈspætʃ/",
+      "meaning": "Cử đi, phái đi"
     }
   ],
-  "dupeCount": 2
+  "dupeCount": 29
 }
