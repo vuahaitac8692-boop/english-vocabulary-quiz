@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vocab-quiz-shared-v7-daily-lessons-review';
+const CACHE_NAME = 'vocab-quiz-shared-v9-daily-lessons-audio-collapse-date';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
