@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-10-31T13:26:35.571Z",
+  "exportedAt": "2026-11-03T02:06:23.340Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2407,7 +2407,109 @@
       "pos": "Danh từ",
       "ipa": "/ˈhəʊlseɪlər/",
       "meaning": "Nhà bán buôn"
+    },
+    {
+      "word": "Lay off",
+      "pos": "Cụm động từ",
+      "ipa": "/leɪ ɒf/",
+      "meaning": "Sa thải"
+    },
+    {
+      "word": "Social benefit",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈsəʊʃl ˈbenɪfɪt/",
+      "meaning": "Lợi ích xã hội"
+    },
+    {
+      "word": "Suffer from",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈsʌfər frɒm/",
+      "meaning": "Chịu đựng, bị ảnh hưởng bởi"
+    },
+    {
+      "word": "Seek",
+      "pos": "Động từ",
+      "ipa": "/siːk/",
+      "meaning": "Tìm kiếm"
+    },
+    {
+      "word": "Politics",
+      "pos": "Danh từ",
+      "ipa": "/ˈpɑːlətɪks/",
+      "meaning": "Chính trị"
+    },
+    {
+      "word": "Contain",
+      "pos": "Động từ",
+      "ipa": "/kənˈteɪn/",
+      "meaning": "Bao gồm, chứa"
+    },
+    {
+      "word": "Housekeeper",
+      "pos": "Danh từ",
+      "ipa": "/ˈhaʊskiːpər/",
+      "meaning": "Người giúp việc"
+    },
+    {
+      "word": "Workload",
+      "pos": "Danh từ",
+      "ipa": "/ˈwɜːrkləʊd/",
+      "meaning": "Khối lượng công việc"
+    },
+    {
+      "word": "Side effect",
+      "pos": "Cụm danh từ",
+      "ipa": "/saɪd ɪˈfekt/",
+      "meaning": "Tác dụng phụ, phản ứng phụ"
+    },
+    {
+      "word": "Exhausted",
+      "pos": "Tính từ",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "meaning": "Kiệt quệ, mệt mỏi"
+    },
+    {
+      "word": "Reserve",
+      "pos": "Động từ",
+      "ipa": "/rɪˈzɜːrv/",
+      "meaning": "Đặt trước"
+    },
+    {
+      "word": "Registration",
+      "pos": "Danh từ",
+      "ipa": "/ˌredʒɪˈstreɪʃn/",
+      "meaning": "Sự đăng ký"
+    },
+    {
+      "word": "Inconvenience",
+      "pos": "Danh từ",
+      "ipa": "/ˌɪnkənˈviːniəns/",
+      "meaning": "Sự bất tiện"
+    },
+    {
+      "word": "Malfunction",
+      "pos": "Danh từ",
+      "ipa": "/ˌmælˈfʌŋkʃn/",
+      "meaning": "Sự cố, trục trặc"
+    },
+    {
+      "word": "Inevitable",
+      "pos": "Tính từ",
+      "ipa": "/ɪnˈevɪtəbl/",
+      "meaning": "Không thể tránh khỏi"
+    },
+    {
+      "word": "Disability",
+      "pos": "Danh từ",
+      "ipa": "/ˌdɪsəˈbɪləti/",
+      "meaning": "Sự tàn tật, mất khả năng lao động"
+    },
+    {
+      "word": "Maintenance",
+      "pos": "Danh từ",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaning": "Sự bảo dưỡng, bảo trì"
     }
   ],
-  "dupeCount": 29
+  "dupeCount": 30
 }
