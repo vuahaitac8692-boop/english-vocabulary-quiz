@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-11-03T02:06:23.340Z",
+  "exportedAt": "2026-11-07T02:37:02.456Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2509,7 +2509,277 @@
       "pos": "Danh từ",
       "ipa": "/ˈmeɪntənəns/",
       "meaning": "Sự bảo dưỡng, bảo trì"
+    },
+    {
+      "word": "Below freezing",
+      "pos": "Cụm tính từ",
+      "ipa": "/bɪˈloʊ ˈfriːzɪŋ/",
+      "meaning": "Dưới điểm đóng băng"
+    },
+    {
+      "word": "Drizzle",
+      "pos": "Danh từ / Động từ",
+      "ipa": "/ˈdrɪzl/",
+      "meaning": "Mưa phùn"
+    },
+    {
+      "word": "Overcast",
+      "pos": "Tính từ",
+      "ipa": "/ˈoʊvərkæst/",
+      "meaning": "Âm u, nhiều mây"
+    },
+    {
+      "word": "Heat wave",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈhiːt weɪv/",
+      "meaning": "Sóng nhiệt, đợt nắng nóng"
+    },
+    {
+      "word": "Thunder & lightning",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈθʌndər ənd ˈlaɪtnɪŋ/",
+      "meaning": "Sấm và chớp"
+    },
+    {
+      "word": "Drought",
+      "pos": "Danh từ",
+      "ipa": "/draʊt/",
+      "meaning": "Hạn hán"
+    },
+    {
+      "word": "Chilly",
+      "pos": "Tính từ",
+      "ipa": "/ˈtʃɪli/",
+      "meaning": "Lạnh buốt, lạnh giá"
+    },
+    {
+      "word": "Shower",
+      "pos": "Danh từ",
+      "ipa": "/ˈʃaʊər/",
+      "meaning": "Mưa rào"
+    },
+    {
+      "word": "Traffic jam",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈtræfɪk dʒæm/",
+      "meaning": "Tắc đường"
+    },
+    {
+      "word": "Speed limit",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈspiːd lɪmɪt/",
+      "meaning": "Tốc độ giới hạn"
+    },
+    {
+      "word": "I am pleased to...",
+      "pos": "Cụm câu",
+      "ipa": "/aɪ æm pliːzd tuː/",
+      "meaning": "Tôi rất vui khi..."
+    },
+    {
+      "word": "I am honored to...",
+      "pos": "Cụm câu",
+      "ipa": "/aɪ æm ˈɑːnərd tuː/",
+      "meaning": "Tôi rất vinh hạnh khi..."
+    },
+    {
+      "word": "Give a big hand to...",
+      "pos": "Cụm động từ",
+      "ipa": "/ɡɪv ə bɪɡ hænd tuː/",
+      "meaning": "Nồng nhiệt hoan nghênh..."
+    },
+    {
+      "word": "On behalf of...",
+      "pos": "Cụm giới từ",
+      "ipa": "/ɑːn bɪˈhæf ʌv/",
+      "meaning": "Thay mặt cho..."
+    },
+    {
+      "word": "Autograph session",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈɔːtəɡræf ˈseʃn/",
+      "meaning": "Buổi ký tặng"
+    },
+    {
+      "word": "Extinct",
+      "pos": "Tính từ",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "meaning": "Tuyệt chủng"
+    },
+    {
+      "word": "Administrative office",
+      "pos": "Cụm danh từ",
+      "ipa": "/ədˈmɪnɪstrətɪv ˈɔːfɪs/",
+      "meaning": "Văn phòng hành chính"
+    },
+    {
+      "word": "HR manager",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌeɪtʃ ˈɑːr ˈmænɪdʒər/",
+      "meaning": "Quản lý nhân sự"
+    },
+    {
+      "word": "Payroll Department",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈpeɪroʊl dɪˈpɑːrtmənt/",
+      "meaning": "Phòng ban tiền lương"
+    },
+    {
+      "word": "Give sb a raise",
+      "pos": "Cụm động từ",
+      "ipa": "/ɡɪv ˈsʌmbədi ə reɪz/",
+      "meaning": "Tăng lương cho ai"
+    },
+    {
+      "word": "Be eligible for",
+      "pos": "Cụm tính từ",
+      "ipa": "/biː ˈelɪdʒəbl fɔːr/",
+      "meaning": "Đủ tư cách, đủ điều kiện cho..."
+    },
+    {
+      "word": "Apologize for",
+      "pos": "Cụm động từ",
+      "ipa": "/əˈpɑːlədʒaɪz fɔːr/",
+      "meaning": "Xin lỗi vì..."
+    },
+    {
+      "word": "Linguist",
+      "pos": "Danh từ",
+      "ipa": "/ˈlɪŋɡwɪst/",
+      "meaning": "Nhà ngôn ngữ học"
+    },
+    {
+      "word": "Shuttle bus",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈʃʌtl bʌs/",
+      "meaning": "Xe buýt đưa đón"
+    },
+    {
+      "word": "Harbor",
+      "pos": "Danh từ",
+      "ipa": "/ˈhɑːrbər/",
+      "meaning": "Bến cảng"
+    },
+    {
+      "word": "Souvenir",
+      "pos": "Danh từ",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "meaning": "Quà lưu niệm"
+    },
+    {
+      "word": "Capital letter",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈkæpɪtl ˈletər/",
+      "meaning": "Chữ cái viết hoa"
+    },
+    {
+      "word": "Worse",
+      "pos": "Tính từ / Trạng từ",
+      "ipa": "/wɜːrs/",
+      "meaning": "Tệ hơn, xấu hơn"
+    },
+    {
+      "word": "Auction",
+      "pos": "Danh từ",
+      "ipa": "/ˈɔːkʃn/",
+      "meaning": "Cuộc đấu giá"
+    },
+    {
+      "word": "Situation",
+      "pos": "Danh từ",
+      "ipa": "/ˌsɪtʃuˈeɪʃn/",
+      "meaning": "Tình huống, hoàn cảnh"
+    },
+    {
+      "word": "Tourist attraction",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈtʊrɪst əˈtrækʃn/",
+      "meaning": "Điểm thu hút khách du lịch"
+    },
+    {
+      "word": "Prohibited",
+      "pos": "Tính từ",
+      "ipa": "/prəˈhɪbɪtɪd/",
+      "meaning": "Bị cấm"
+    },
+    {
+      "word": "Strictly",
+      "pos": "Trạng từ",
+      "ipa": "/ˈstrɪktli/",
+      "meaning": "Một cách nghiêm ngặt"
+    },
+    {
+      "word": "Sailing",
+      "pos": "Danh từ",
+      "ipa": "/ˈseɪlɪŋ/",
+      "meaning": "Hoạt động chèo thuyền buồm"
+    },
+    {
+      "word": "Vehicles",
+      "pos": "Danh từ số nhiều",
+      "ipa": "/ˈviːɪkəlz/",
+      "meaning": "Các phương tiện giao thông"
+    },
+    {
+      "word": "Roadwork",
+      "pos": "Danh từ",
+      "ipa": "/ˈroʊdwɜːrk/",
+      "meaning": "Công việc sửa chữa đường"
+    },
+    {
+      "word": "Rainfall",
+      "pos": "Danh từ",
+      "ipa": "/ˈreɪnfɔːl/",
+      "meaning": "Lượng mưa"
+    },
+    {
+      "word": "Freeze",
+      "pos": "Động từ",
+      "ipa": "/friːz/",
+      "meaning": "Đóng băng"
+    },
+    {
+      "word": "Grey sky",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌɡreɪ ˈskaɪ/",
+      "meaning": "Bầu trời xám xịt"
+    },
+    {
+      "word": "Established",
+      "pos": "Động từ quá khứ / Tính từ",
+      "ipa": "/ɪˈstæblɪʃt/",
+      "meaning": "Đã thành lập, được thiết lập"
+    },
+    {
+      "word": "Delighted",
+      "pos": "Tính từ",
+      "ipa": "/dɪˈlaɪtɪd/",
+      "meaning": "Vui mừng, hài lòng"
+    },
+    {
+      "word": "Remind",
+      "pos": "Động từ",
+      "ipa": "/rɪˈmaɪnd/",
+      "meaning": "Nhắc nhở"
+    },
+    {
+      "word": "Damp",
+      "pos": "Tính từ",
+      "ipa": "/dæmp/",
+      "meaning": "Ẩm ướt, hơi ẩm"
+    },
+    {
+      "word": "Stay tuned",
+      "pos": "Cụm động từ",
+      "ipa": "/ˌsteɪ ˈtuːnd/",
+      "meaning": "Hãy tiếp tục theo dõi"
+    },
+    {
+      "word": "Just in case",
+      "pos": "Cụm trạng từ",
+      "ipa": "/dʒʌst ɪn ˈkeɪs/",
+      "meaning": "Để phòng khi, đề phòng"
     }
   ],
-  "dupeCount": 30
+  "dupeCount": 34
 }
