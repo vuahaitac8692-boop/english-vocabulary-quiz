@@ -41,8 +41,27 @@ details summary{cursor:pointer;font-weight:750;margin:-2px 0 12px}.pill{font-siz
  </div>
  <p class="hint">Ứng dụng có thể chạy offline sau khi mở/cài đặt lần đầu. Dữ liệu lưu riêng trên từng trình duyệt. Để chuyển máy, hãy xuất file JSON rồi nhập lại trên máy mới. Nhập Word .docx được xử lý ngay trên thiết bị, không tải dữ liệu lên mạng.</p>
  <div class="row" style="margin-top:10px"><button class="secondary" id="syncSharedBtn">Đồng bộ kho từ vựng chung</button><span class="hint" id="sharedSyncStatus">Kho chung sẽ được kiểm tra khi mở ứng dụng có Internet.</span></div>
+ <details id="quickAddDetails">
+  <summary>Thêm từ mới (4 trường thông tin)</summary>
+  <div class="row" style="align-items:flex-end;margin:10px 0;flex-wrap:wrap">
+   <label style="flex:1;min-width:220px">Từ vựng tiếng Anh
+    <input id="quickWord" type="text" placeholder="Ví dụ: Drizzle" autocomplete="off" style="display:block;width:100%;margin-top:5px">
+   </label>
+   <label style="flex:1;min-width:220px">Từ loại
+    <input id="quickPos" type="text" placeholder="Ví dụ: Danh từ (có thể để trống)" autocomplete="off" style="display:block;width:100%;margin-top:5px">
+   </label>
+   <label style="flex:1;min-width:220px">Phiên âm
+    <input id="quickIpa" type="text" placeholder="Ví dụ: /ˈdrɪzl/ (có thể để trống)" autocomplete="off" style="display:block;width:100%;margin-top:5px">
+   </label>
+   <label style="flex:1;min-width:220px">Nghĩa tiếng Việt
+    <input id="quickMeaning" type="text" placeholder="Ví dụ: Mưa phùn" autocomplete="off" style="display:block;width:100%;margin-top:5px">
+   </label>
+   <button id="quickAddBtn" type="button">+ Thêm từ mới</button>
+  </div>
+  <p class="hint" id="quickAddMsg">Chỉ bắt buộc nhập Từ vựng tiếng Anh và Nghĩa tiếng Việt. Từ loại và Phiên âm được phép để trống; ngày thêm được tự động ghi nhận.</p>
+ </details>
  <details>
-  <summary>Thêm từ bằng cách dán nội dung / thu gọn khu vực nhập</summary>
+  <summary>Thêm nhiều từ bằng cách dán nội dung / thu gọn khu vực nhập</summary>
   <p class="hint">Dán mỗi từ một dòng theo thứ tự: <b>Từ vựng [TAB] Từ loại [TAB] Phiên âm [TAB] Nghĩa tiếng Việt</b>. Có thể copy các dòng từ bảng Word.</p>
   <textarea id="pasteBox" placeholder="Excellent&#9;Tính từ&#9;/ˈeksələnt/&#9;Xuất sắc&#10;Upcoming&#9;Tính từ&#9;/ˈʌpkʌmɪŋ/&#9;Sắp tới"></textarea>
   <div class="row"><button id="pasteAdd">Thêm nội dung đã dán</button><span class="hint" id="importMsg"></span></div>
@@ -272,6 +291,18 @@ $('startFillBtn').onclick=startFillQuiz;$('newFillBtn').onclick=startFillQuiz;$(
 function toggleFillHint(){const x=fillQuiz[fillIndex];if(!x||fillFinished)return;const box=$('fillHintToggle'),revealed=box.getAttribute('aria-expanded')==='true';box.setAttribute('aria-expanded',String(!revealed));box.classList.toggle('revealed',!revealed);box.setAttribute('aria-label',revealed?'Nhấn để hiện nghĩa tiếng Việt':'Nhấn để ẩn nghĩa tiếng Việt');$('fillHint').textContent=revealed?'Nhấn để hiện nghĩa tiếng Việt':(x.meaning||'Chưa có nghĩa tiếng Việt')}
 $('fillHintToggle').addEventListener('click',toggleFillHint);$('fillHintToggle').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggleFillHint()}});document.addEventListener('keydown',e=>{if(e.altKey&&e.key==='ArrowRight'&&!$('fillGame').hidden&&!fillFinished&&fillAwaitingNext){e.preventDefault();nextFillQuestion()}});
 $('resetMatchBtn').onclick=startMatching;$('matchReviewBtn').onclick=()=>{const area=$('matchReviewArea');area.classList.toggle('hidden');$('matchReviewBtn').textContent=area.classList.contains('hidden')?'Xem lại các cặp đã ghép':'Ẩn phần xem lại'};$('matchPlayAgainBtn').onclick=()=>{startMatching();$('matchingArea').scrollIntoView({behavior:'smooth',block:'start'})};
+function quickAddVocabulary(){
+ const word=$('quickWord').value.trim(), pos=$('quickPos').value.trim(), ipa=$('quickIpa').value.trim(), meaning=$('quickMeaning').value.trim(), msg=$('quickAddMsg');
+ if(!word||!meaning){msg.textContent='Vui lòng nhập Từ vựng tiếng Anh và Nghĩa tiếng Việt. Từ loại, Phiên âm có thể để trống.';msg.style.color='#b91c1c';return}
+ const r=addEntries([{word,meaning,pos,ipa,ngayThem:localDateKey()}]);
+ if(r.added){importedCount+=r.added;save();renderAll();['quickWord','quickPos','quickIpa','quickMeaning'].forEach(id=>$(id).value='');msg.textContent='Đã thêm từ mới thành công. Từ loại/Phiên âm được lưu đúng nội dung đã nhập (có thể để trống). Từ đã được đưa vào Bài học theo ngày.';msg.style.color='#15803d';$('quickWord').focus()}
+ else{msg.textContent='Từ này đã có trong kho từ vựng; không thêm trùng.';msg.style.color='#b91c1c';$('quickWord').focus()}
+}
+$('quickAddBtn').addEventListener('click',quickAddVocabulary);
+$('quickWord').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();$('quickPos').focus()}});
+$('quickPos').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();$('quickIpa').focus()}});
+$('quickIpa').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();$('quickMeaning').focus()}});
+$('quickMeaning').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();quickAddVocabulary()}});
 $('pasteAdd').onclick=()=>{let r=addEntries(parseText($('pasteBox').value));importedCount+=r.added;save();renderAll();$('importMsg').textContent=`Đã thêm ${r.added} từ; bỏ qua ${r.dup} từ trùng hoặc thiếu dữ liệu.`;if(r.added)$('pasteBox').value=''};
 $('docxFile').onchange=async e=>{let f=e.target.files[0];if(!f)return;try{$('importMsg').textContent='Đang đọc file Word…';let xml=await readDocxDocumentXml(f);let doc=new DOMParser().parseFromString(xml,'application/xml');let trs=[...doc.getElementsByTagNameNS('*','tr')];let entries=[];for(let tr of trs){let cells=[...tr.getElementsByTagNameNS('*','tc')].map(tc=>[...tc.getElementsByTagNameNS('*','t')].map(t=>t.textContent).join('').trim());if(cells.length>=4){let vals=cells.slice(0,4);if(norm(vals[0])==='từ vựng'||norm(vals[0])==='vocabulary')continue;entries.push({word:vals[0],pos:vals[1],ipa:vals[2],meaning:vals[3]})}}let r=addEntries(entries);importedCount+=r.added;save();renderAll();$('importMsg').textContent=`${f.name}: thêm ${r.added} từ, bỏ qua ${r.dup} từ trùng/không hợp lệ.`}catch(err){$('importMsg').textContent='Không đọc được file. Hãy thử lưu lại dưới dạng .docx hoặc dán nội dung theo định dạng 4 cột.';console.error(err)}finally{e.target.value=''}};
 async function readDocxDocumentXml(file){
