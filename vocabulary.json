@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-11-07T02:37:02.456Z",
+  "exportedAt": "2026-11-17T14:04:36.875Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2779,7 +2779,79 @@
       "pos": "Cụm trạng từ",
       "ipa": "/dʒʌst ɪn ˈkeɪs/",
       "meaning": "Để phòng khi, đề phòng"
+    },
+    {
+      "word": "Expiration date",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˌekspəˈreɪʃn deɪt/",
+      "meaning": "Ngày hết hạn"
+    },
+    {
+      "word": "Implement",
+      "pos": "Động từ / Danh từ",
+      "ipa": "/ˈɪmplɪment/",
+      "meaning": "Thực thi, triển khai / Công cụ"
+    },
+    {
+      "word": "Expiration",
+      "pos": "Danh từ",
+      "ipa": "/ˌekspəˈreɪʃn/",
+      "meaning": "Sự hết hạn"
+    },
+    {
+      "word": "Participation",
+      "pos": "Danh từ",
+      "ipa": "/pɑːˌtɪsɪˈpeɪʃn/",
+      "meaning": "Sự tham gia"
+    },
+    {
+      "word": "Implementation",
+      "pos": "Danh từ",
+      "ipa": "/ˌɪmplɪmenˈteɪʃn/",
+      "meaning": "Sự thực thi, sự triển khai"
+    },
+    {
+      "word": "Constructive",
+      "pos": "Tính từ",
+      "ipa": "/kənˈstrʌktɪv/",
+      "meaning": "Mang tính xây dựng"
+    },
+    {
+      "word": "Conduct a survey",
+      "pos": "Cụm động từ",
+      "ipa": "/kənˈdʌkt ə ˈsɜːrveɪ/",
+      "meaning": "Tiến hành khảo sát"
+    },
+    {
+      "word": "Finalize",
+      "pos": "Động từ",
+      "ipa": "/ˈfaɪnəlaɪz/",
+      "meaning": "Hoàn thiện, chốt lại"
+    },
+    {
+      "word": "Apologize",
+      "pos": "Động từ",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "meaning": "Xin lỗi"
+    },
+    {
+      "word": "Regret",
+      "pos": "Động từ / Danh từ",
+      "ipa": "/rɪˈɡret/",
+      "meaning": "Hối tiếc, tiếc nuối"
+    },
+    {
+      "word": "Contribute",
+      "pos": "Động từ",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "meaning": "Đóng góp"
+    },
+    {
+      "word": "Decline",
+      "pos": "Động từ",
+      "ipa": "/dɪˈklaɪn/",
+      "meaning": "Từ chối"
     }
   ],
-  "dupeCount": 34
+  "dupeCount": 38
 }
