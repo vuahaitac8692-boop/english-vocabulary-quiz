@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-11-17T14:04:36.875Z",
+  "exportedAt": "2026-11-19T13:45:22.256Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2851,7 +2851,115 @@
       "pos": "Động từ",
       "ipa": "/dɪˈklaɪn/",
       "meaning": "Từ chối"
+    },
+    {
+      "word": "Push",
+      "pos": "Động từ",
+      "ipa": "/pʊʃ/",
+      "meaning": "Đẩy"
+    },
+    {
+      "word": "Stroll",
+      "pos": "Động từ",
+      "ipa": "/strəʊl/",
+      "meaning": "Đi dạo, tản bộ"
+    },
+    {
+      "word": "Board",
+      "pos": "Động từ",
+      "ipa": "/bɔːrd/",
+      "meaning": "Lên tàu, xe, máy bay"
+    },
+    {
+      "word": "Casual",
+      "pos": "Tính từ",
+      "ipa": "/ˈkæʒuəl/",
+      "meaning": "Thông thường, không trang trọng (trang phục)"
+    },
+    {
+      "word": "Outfit",
+      "pos": "Danh từ",
+      "ipa": "/ˈaʊtfɪt/",
+      "meaning": "Trang phục"
+    },
+    {
+      "word": "Track",
+      "pos": "Danh từ",
+      "ipa": "/træk/",
+      "meaning": "Đường chạy"
+    },
+    {
+      "word": "Sweat",
+      "pos": "Động từ / Danh từ",
+      "ipa": "/swet/",
+      "meaning": "Đổ mồ hôi / Mồ hôi"
+    },
+    {
+      "word": "Hood",
+      "pos": "Danh từ",
+      "ipa": "/hʊd/",
+      "meaning": "Nắp capô xe"
+    },
+    {
+      "word": "Clothes rack",
+      "pos": "Cụm danh từ",
+      "ipa": "/kloʊðz ræk/",
+      "meaning": "Giá treo quần áo"
+    },
+    {
+      "word": "Pantsuit",
+      "pos": "Danh từ",
+      "ipa": "/ˈpæntsuːt/",
+      "meaning": "Âu phục (dành cho nữ)"
+    },
+    {
+      "word": "Work out",
+      "pos": "Cụm động từ",
+      "ipa": "/wɜːrk aʊt/",
+      "meaning": "Tập thể hình, tập thể dục"
+    },
+    {
+      "word": "Seed",
+      "pos": "Danh từ",
+      "ipa": "/siːd/",
+      "meaning": "Hạt, hạt giống"
+    },
+    {
+      "word": "Fall behind",
+      "pos": "Cụm động từ",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "Bị tụt lại phía sau, chậm tiến độ"
+    },
+    {
+      "word": "Proceed",
+      "pos": "Động từ",
+      "ipa": "/prəˈsiːd/",
+      "meaning": "Tiến hành, tiếp tục"
+    },
+    {
+      "word": "Come up with",
+      "pos": "Cụm động từ",
+      "ipa": "/kʌm ʌp wɪð/",
+      "meaning": "Nảy ra ý tưởng, nghĩ ra"
+    },
+    {
+      "word": "Brainstorm",
+      "pos": "Động từ",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "meaning": "Động não, suy nghĩ ý tưởng"
+    },
+    {
+      "word": "Go over",
+      "pos": "Cụm động từ",
+      "ipa": "/ɡoʊ ˈoʊvər/",
+      "meaning": "Xem xét kỹ, rà soát lại"
+    },
+    {
+      "word": "Urgent",
+      "pos": "Tính từ",
+      "ipa": "/ˈɜːrdʒənt/",
+      "meaning": "Khẩn cấp"
     }
   ],
-  "dupeCount": 38
+  "dupeCount": 39
 }
