@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-11-19T13:45:22.256Z",
+  "exportedAt": "2026-11-20T15:35:31.878Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -2959,7 +2959,121 @@
       "pos": "Tính từ",
       "ipa": "/ˈɜːrdʒənt/",
       "meaning": "Khẩn cấp"
+    },
+    {
+      "word": "falling apart",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈfɔːlɪŋ əˈpɑːrt/",
+      "meaning": "Tan vỡ, sụp đổ, rời rạc"
+    },
+    {
+      "word": "reach",
+      "pos": "Động từ",
+      "ipa": "/riːtʃ/",
+      "meaning": "Đạt tới, với tới, liên lạc"
+    },
+    {
+      "word": "lacking cohesion",
+      "pos": "Cụm tính từ",
+      "ipa": "/ˈlækɪŋ koʊˈhiːʒən/",
+      "meaning": "Thiếu sự gắn kết, thiếu tính mạch lạc"
+    },
+    {
+      "word": "falling behind",
+      "pos": "Cụm động từ",
+      "ipa": "/ˈfɔːlɪŋ bɪˈhaɪnd/",
+      "meaning": "Tụt lại phía sau, chậm tiến độ"
+    },
+    {
+      "word": "errands",
+      "pos": "Danh từ số nhiều",
+      "ipa": "/ˈerəndz/",
+      "meaning": "Những việc vặt cần làm"
+    },
+    {
+      "word": "collection",
+      "pos": "Danh từ",
+      "ipa": "/kəˈlekʃən/",
+      "meaning": "Bộ sưu tập, sự thu thập"
+    },
+    {
+      "word": "identify",
+      "pos": "Động từ",
+      "ipa": "/aɪˈdentɪfaɪ/",
+      "meaning": "Nhận diện, xác định"
+    },
+    {
+      "word": "street performance",
+      "pos": "Cụm danh từ",
+      "ipa": "/striːt pərˈfɔːrməns/",
+      "meaning": "Buổi biểu diễn đường phố"
+    },
+    {
+      "word": "musical performance",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈmjuːzɪkəl pərˈfɔːrməns/",
+      "meaning": "Buổi biểu diễn âm nhạc"
+    },
+    {
+      "word": "experts",
+      "pos": "Danh từ số nhiều",
+      "ipa": "/ˈekspɜːrts/",
+      "meaning": "Các chuyên gia"
+    },
+    {
+      "word": "predict",
+      "pos": "Động từ",
+      "ipa": "/prɪˈdɪkt/",
+      "meaning": "Dự đoán"
+    },
+    {
+      "word": "interest rates",
+      "pos": "Cụm danh từ số nhiều",
+      "ipa": "/ˈɪntrəst reɪts/",
+      "meaning": "Lãi suất"
+    },
+    {
+      "word": "expect",
+      "pos": "Động từ",
+      "ipa": "/ɪkˈspekt/",
+      "meaning": "Mong đợi, kỳ vọng, dự kiến"
+    },
+    {
+      "word": "coordinator",
+      "pos": "Danh từ",
+      "ipa": "/koʊˈɔːrdɪneɪtər/",
+      "meaning": "Điều phối viên"
+    },
+    {
+      "word": "instructor",
+      "pos": "Danh từ",
+      "ipa": "/ɪnˈstrʌktər/",
+      "meaning": "Người hướng dẫn, giảng viên"
+    },
+    {
+      "word": "improves",
+      "pos": "Động từ",
+      "ipa": "/ɪmˈpruːvz/",
+      "meaning": "Cải thiện, làm tốt hơn"
+    },
+    {
+      "word": "recruit",
+      "pos": "Động từ",
+      "ipa": "/rɪˈkruːt/",
+      "meaning": "Tuyển dụng, chiêu mộ"
+    },
+    {
+      "word": "inquire",
+      "pos": "Động từ",
+      "ipa": "/ɪnˈkwaɪər/",
+      "meaning": "Hỏi thăm, tìm hiểu, yêu cầu thông tin"
+    },
+    {
+      "word": "meet the deadline",
+      "pos": "Cụm động từ (Verb phrase)",
+      "ipa": "/miːt ðə ˈdedlaɪn/",
+      "meaning": "Hoàn thành công việc đúng thời hạn; kịp thời hạn"
     }
   ],
-  "dupeCount": 39
+  "dupeCount": 40
 }
