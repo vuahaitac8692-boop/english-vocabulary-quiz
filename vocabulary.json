@@ -1,6 +1,6 @@
 {
   "format": "vocab-admin-backup-v1",
-  "exportedAt": "2026-11-20T15:35:31.878Z",
+  "exportedAt": "2026-11-21T12:58:16.315Z",
   "vocab": [
     {
       "word": "Excellent",
@@ -3073,7 +3073,79 @@
       "pos": "Cụm động từ (Verb phrase)",
       "ipa": "/miːt ðə ˈdedlaɪn/",
       "meaning": "Hoàn thành công việc đúng thời hạn; kịp thời hạn"
+    },
+    {
+      "word": "Take place",
+      "pos": "Cụm động từ",
+      "ipa": "/teɪk pleɪs/",
+      "meaning": "Xảy ra, diễn ra"
+    },
+    {
+      "word": "Attend",
+      "pos": "Động từ",
+      "ipa": "/əˈtend/",
+      "meaning": "Tham dự"
+    },
+    {
+      "word": "State-of-the-art",
+      "pos": "Tính từ",
+      "ipa": "/ˌsteɪt əv ði ˈɑːrt/",
+      "meaning": "Hiện đại, tiên tiến nhất"
+    },
+    {
+      "word": "Promising",
+      "pos": "Tính từ",
+      "ipa": "/ˈprɑːmɪsɪŋ/",
+      "meaning": "Đầy hứa hẹn"
+    },
+    {
+      "word": "Transfer",
+      "pos": "Động từ",
+      "ipa": "/trænsˈfɜːr/",
+      "meaning": "Chuyển công tác"
+    },
+    {
+      "word": "Experienced",
+      "pos": "Tính từ",
+      "ipa": "/ɪkˈspɪriənst/",
+      "meaning": "Có kinh nghiệm"
+    },
+    {
+      "word": "Critic",
+      "pos": "Danh từ",
+      "ipa": "/ˈkrɪtɪk/",
+      "meaning": "Nhà phê bình"
+    },
+    {
+      "word": "A variety of",
+      "pos": "Cụm từ",
+      "ipa": "/ə vəˈraɪəti əv/",
+      "meaning": "Nhiều, đa dạng"
+    },
+    {
+      "word": "City council",
+      "pos": "Cụm danh từ",
+      "ipa": "/ˈsɪti ˈkaʊnsl/",
+      "meaning": "Hội đồng thành phố"
+    },
+    {
+      "word": "Funding",
+      "pos": "Danh từ",
+      "ipa": "/ˈfʌndɪŋ/",
+      "meaning": "Quỹ, sự tài trợ"
+    },
+    {
+      "word": "Candidate",
+      "pos": "Danh từ",
+      "ipa": "/ˈkændɪdət/",
+      "meaning": "Ứng viên"
+    },
+    {
+      "word": "Possess",
+      "pos": "Động từ",
+      "ipa": "/pəˈzes/",
+      "meaning": "Sở hữu"
     }
   ],
-  "dupeCount": 40
+  "dupeCount": 45
 }
